@@ -9,6 +9,7 @@ url        : "http://jeffrey-hanson.com"  # Url of your site
 metadata: ["jeff hanson", "jeffrey hanson", "jeffrey owen hanson", "jeffrey o hanson", "github", "conservation", "resume", "CV", "rapr", "marxan", "mapotron"] # Metadata for if you want to analyse your site  with google analytics (code like UA-5293-1)
 googleAnalyticsID: "UA-70466840-2"
 ackeeAnalytics: #http://pmpa.ovh:8893/!
+custom-css: /css/extra.css
 
 #### SEO Informations ####
 SEO_GOOGLE_PUBLISHER: #+LéoDerbois #+YourName
