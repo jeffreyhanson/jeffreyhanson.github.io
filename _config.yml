@@ -53,7 +53,7 @@ stackoverflow: paleo13 # stackoverflow ID
 
 ##### Publications #####
 custom_category_name: Publications
-custom_category_icon: fa-area-chart # fontawesom icon
+custom_category_icon: bullhorn # fontawesom icon
 ############################ Publications Content ################################
 
 # Your skills
