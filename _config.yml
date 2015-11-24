@@ -25,7 +25,7 @@ SEO_GOOGLE_SITE_VERIFICATION:
 ############################# Personnal Inforamtions ################################
 name   : Jeffrey Hanson #Your name
 summary: Conservation Scientist # a simple sentence about you
-quote  : "I am fascinated by the application of statistics, GIS, and machine learning to further our understanding of biodiversity, and in turn, how we can use this information to optimize conservation actions to preserve biodviversity" # a quote about you
+quote  : "I am fascinated by the application of statistical and spatial analysis to further our understanding of biodiversity, and in turn, how we can use this information to optimize conservation actions to preserve biodviversity" # a quote about you
 phone  : +61 04 3108 8950 # your phone number
 # vcard  : /assets/leoderbois.vcf
 # street : 6 Delamore Court
@@ -73,16 +73,16 @@ skills:
  - sectionName: <i class="fa fa-bar-chart"></i> Statistical skills
    elements:
      - name: Statistical models
-       values: ["generalised linear models", "generalised linear mixed-effects models", "occupancy-detection models"]
+       values: ["general linear models", "GLMERs", "occupancy-detection models"]
      - name:  Visualisation
        values: ["ggplot2", "R base graphics"]
      - name:  Modelling platforms
-       values: ["Circuitscape", "stan", "JAGS", "MaxEnt"]
+       values: ["stan", "JAGS", "MaxEnt"]
        
  - sectionName: <i class="fa fa-map-marker"></i> Spatial Analytical skills
    elements:
      - name: Geogrocessing
-       values: ["R","ArcGIS","QGIS", "GME"]
+       values: ["R","ArcGIS","Circuitscape","QGIS", "GME"]
      - name: Decision support tools
        values: ["Marxan", "rapr"]
  
