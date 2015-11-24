@@ -1,13 +1,13 @@
 # Site settings
-title      : Jeffrey O. Hanson #title of the resume - for browser
+title      : Jeffrey Hanson #title of the resume - for browser
 email      : jeffrey.hanson@uqconnect.edu.au # your email
 description: # Not used
 baseurl    : "" # Github subfolder for project . If is your main git or you use a CNAME put ""
 url        : "http://jeffrey-hanson.com"  # Url of your site
 
 
-metadata: ["jeff hanson", "github", "conservation", "resume", "CV"] # Metadata for if you want to analyse your site  with google analytics (code like UA-5293-1)
-googleAnalyticsID: "UA-70466840-1"
+metadata: ["jeff hanson", "github", "conservation", "resume", "CV", "rapr", "marxan", "mapotron"] # Metadata for if you want to analyse your site  with google analytics (code like UA-5293-1)
+googleAnalyticsID: "UA-70466840-2"
 ackeeAnalytics: #http://pmpa.ovh:8893/!
 
 #### SEO Informations ####
