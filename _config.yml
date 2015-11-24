@@ -2,7 +2,7 @@
 title      : Jeffrey Hanson #title of the resume - for browser
 email      : jeffrey.hanson@uqconnect.edu.au # your email
 description: # Not used
-baseurl    : "" # Github subfolder for project . If is your main git or you use a CNAME put ""
+baseurl    : "I am fascinated by the application of statistics, GIS, and machine learning to further our understanding of biodiversity, and in turn, how we can use this information to optimise conservation actions to preserve biodviversity" # Github subfolder for project . If is your main git or you use a CNAME put ""
 url        : "http://jeffrey-hanson.com"  # Url of your site
 
 
@@ -25,7 +25,7 @@ SEO_GOOGLE_SITE_VERIFICATION:
 ############################# Personnal Inforamtions ################################
 name   : Jeffrey Hanson #Your name
 summary: Conservation Scientist # a simple sentence about you
-quote  : "This website is under development" # a quote about you
+quote  : "" # a quote about you
 phone  : +61 04 3108 8950 # your phone number
 # vcard  : /assets/leoderbois.vcf
 # street : 6 Delamore Court
