@@ -1,0 +1,135 @@
+# Site settings
+title      : Jeffrey O. Hanson #title of the resume - for browser
+email      : jeffrey.hanson@uqconnect.edu.au # your email
+description: # Not used
+baseurl    : "" # Github subfolder for project . If is your main git or you use a CNAME put ""
+url        : "http://github.paleo13.io"  # Url of your site
+
+
+metadata: ["jeff hanson", "github", "conservation", "resume", "CV"] # Metadata for if you want to analyse your site  with google analytics (code like UA-5293-1)
+googleAnalyticsID: "UA-70466840-1"
+ackeeAnalytics: #http://pmpa.ovh:8893/!
+
+#### SEO Informations ####
+SEO_GOOGLE_PUBLISHER: #+LéoDerbois #+YourName
+SEO_LOCAL: en_US
+#SEO_Title <- title
+#SEO_DESCRIPTION  <- summary
+#SEO_URL <- site.url
+#SEO_site_name <-title
+SEO_IMAGE: /assets/profile_photo.jpg
+SEO_ALEXA_VERIFY_ID:
+SEO_GOOGLE_SITE_VERIFICATION:
+
+############################# Personnal Inforamtions ################################
+name   : Jeffrey Hanson #Your name
+summary: Conservation Scientist # a simple sentence about you
+quote  : "Insert quote here" # a quote about you
+phone  : +61 04 3108 8950 # your phone number
+# vcard  : /assets/leoderbois.vcf
+# street : 6 Delamore Court
+# city   : Ipswich, Australia
+# zipcode: 4306
+
+
+# if you have a site or a custom blog
+#blog_name: Boba Fett At School
+#blog_url : http://www.osxbricks.com
+
+# your social informations
+#linkedin: bobafett # linkedin username
+#google  : bobafett # google username
+github  : paleo13 # github username
+#twitter : bobafett # twitter username
+#facebook: bobafett # facebook username
+#elloco:   bobafett # elloco username
+stackoverflow: paleo13 # stackoverflow ID
+
+############################# Site Options ################################
+#favicon         : /assets/bobafett.ico 		# website Favicon  / Need to be local (in assets forlder)
+#avatar          : NOW IN BOBAFETT.less
+#panel_background: NOW IN BOBAFETT.less
+#enable_ribbon   : yes 						# remove this line to remove the github ribbon
+
+
+##### About #####
+#custom_category_name: About
+#custom_category_icon: bullhorn # fontawesom icon
+############################ About Content ################################
+
+##### Publications #####
+#custom_category_name: Publications
+#custom_category_icon: bullhorn # fontawesom icon
+############################ Publications Content ################################
+
+##### Employment #####
+#custom_category_name: Employment
+#custom_category_icon: star # fontawesom icon
+############################ Publications Content ################################
+
+##### Projects ######
+#custom_category_name: Projects
+#custom_category_icon: star # fontawesom icon
+############################ Projects Content ################################
+
+##### Education #####
+#custom_category_name: Education
+#custom_category_icon: university # fontawesom icon
+############################ Education Content ################################
+
+# Your skills
+#if you remove this, articles with 'skills' category are considerated
+skills:
+ - sectionName: <i class="fa fa-terminal"></i> Computational skills
+   elements: 
+    - name: Programming languages
+      values: ["R","Python","C++", "BASH", "JavaScript"]
+    - name: Database
+      values: ["Microsoft Access","MongoDB","JSON/XML/YAML"]
+    - name: Network Adminisation
+      values: ["SSH/SFTP", "Install and manage UNIX servers"]
+ 
+ - sectionName: <i-class="fa fa-area-chart"> Analytical skills
+    elements:
+      - name: Statistical models
+        values: ["generalised linear models", "generalised linear mixed-effects models", "occupancy-detection models"]
+      - name:  Visualisation
+        values: ["ggplot2", "R base graphics"]
+      - name: Bayesian modelling platforms
+        values: ["stan", "JAGS"]   
+      - name: Spatial Analysis
+        values: ["R","ArcMap","QGIS", "MaxEnt", "Circuitscape"]
+ 
+ - sectionName: <i-class="fa fa-wrench"> Tools
+   elements:
+    - name: Typesetting
+      values: ["Microsoft Word","TexLive"]
+    - name: Operating system
+      values: ["Windows","Ubuntu (14.04)", "Linux Mint"]
+    - name: IDE
+      values: ["kate", "Atom", "VIM", "Notepad++", "Sublime", "CodeBlocks","Visual Studio"] 
+    - name: Version control
+      values: ["GitHub", "BitBucket"]
+
+# Some inforamtions you want to add
+#informations-custom:
+#- text: Space ship drive Licence + vehicle
+  #logo: space-shuttle #fontawesome
+#- text: Cooking Wookie stuff
+  #logo: spoon #fontawesome
+#- text: Have a lot of guns
+
+# Languages you speak (put your level in parentheses)
+speaking-langugages: ["English (native language)"]
+
+# a link to your PDF version of the remuse. If you remove, the button will disappear.
+#resume_pdf: http://cl.ly/3c3a3F2v0a0v/download/boba_fett.pdf
+
+
+############################# Build setting (don't touch!) ################################
+markdown: kramdown
+permalink: pretty
+
+############################# Plugins ################################
+
+# No plugin
