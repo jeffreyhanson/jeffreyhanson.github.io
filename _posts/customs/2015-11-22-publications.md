@@ -5,7 +5,7 @@ date:   2015-11-22 00:00:00
 categories: customs
 ---
 
-## In #ress
+## In Press
 
 * Bunton J. D., Ernst A. T., Hanson J. O., Beyer H. L., Hammill E., Runge C. A., Venter O., Possingham H. P. & Rhodes J. R. In press (accepted October 2015). Integrated planning of linear infrastructure and conservation offsets. _MODSIM 2015_.
 
