@@ -78,6 +78,7 @@ skills:
        values: ["Circuitscape", "stan", "JAGS", "MaxEnt"]
        
  - sectionName: <i-class="fa fa-area-chart"></i> Spatial Analytical skills
+   elements:
      - name: Geogrocessing
        values: ["R","ArcGIS","QGIS", "GME"]
      - name: Decision support tools
