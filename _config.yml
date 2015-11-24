@@ -90,15 +90,15 @@ skills:
       values: ["SSH/SFTP", "Install and manage UNIX servers"]
  
  - sectionName: <i-class="fa fa-area-chart"> Analytical skills
-    elements:
-      - name: Statistical models
-        values: ["generalised linear models", "generalised linear mixed-effects models", "occupancy-detection models"]
-      - name:  Visualisation
-        values: ["ggplot2", "R base graphics"]
-      - name: Bayesian modelling platforms
-        values: ["stan", "JAGS"]   
-      - name: Spatial Analysis
-        values: ["R","ArcMap","QGIS", "MaxEnt", "Circuitscape"]
+   elements:
+     - name: Statistical models
+       values: ["generalised linear models", "generalised linear mixed-effects models", "occupancy-detection models"]
+     - name:  Visualisation
+       values: ["ggplot2", "R base graphics"]
+     - name: Bayesian modelling platforms
+       values: ["stan", "JAGS"]   
+     - name: Spatial Analysis
+       values: ["R","ArcMap","QGIS", "MaxEnt", "Circuitscape"]
  
  - sectionName: <i-class="fa fa-wrench"> Tools
    elements:
