@@ -1,6 +1,6 @@
 # defaults Jekyll
-_site
-.sass-cache
+#_site
+#.sass-cache
 
 # Templates infos
 #_config.yml
