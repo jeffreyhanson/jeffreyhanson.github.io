@@ -84,7 +84,7 @@ skills:
      - name: Decision support tools
        values: ["Marxan", "rapr"]
  
- - sectionName: <i-class="fa fa-wrench"></i> Tools
+ - sectionName: <i class="fa fa-wrench"></i> Tools
    elements:
     - name: Typesetting
       values: ["Microsoft Word","TexLive"]
