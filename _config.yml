@@ -68,7 +68,7 @@ skills:
     - name: Network Adminisation
       values: ["SSH/SFTP", "Install and manage UNIX servers"]
  
- - sectionName: <i class="fa fa-bar-chart"></i> Statistical skills
+ - sectionName: <i class="fa fa-wrench"></i> Statistical skills
    elements:
      - name: Statistical models
        values: ["generalised linear models", "generalised linear mixed-effects models", "occupancy-detection models"]
