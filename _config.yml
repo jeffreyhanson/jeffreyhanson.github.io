@@ -51,12 +51,6 @@ stackoverflow: paleo13 # stackoverflow ID
 #panel_background: NOW IN BOBAFETT.less
 #enable_ribbon   : yes 						# remove this line to remove the github ribbon
 
-
-##### About #####
-#custom_category_name: About
-#custom_category_icon: bullhorn # fontawesom icon
-############################ About Content ################################
-
 ##### Publications #####
 custom_category_name: Publications
 custom_category_icon: area-chart # fontawesom icon

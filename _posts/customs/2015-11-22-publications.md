@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Publication list"
+url: "http://paleo13.github.io/#customs"
+
 date:   2015-11-22 00:00:00
 categories: customs
 ---
