@@ -17,11 +17,11 @@
       {% include content/1-header.html %}
 
       <!-- Include Section if one article minumum exist -->
-      {% if site.aboutme and site.categories.aboutme %}
+      {% if site.categories.aboutme %}
         {% include content/2-aboutme.html %}
       {% endif %}
 
-      {% if site.publications and site.categories.publications %}
+      {% if site.categories.publications %}
         {% include content/3-publications.html %}
       {% endif %}
        
