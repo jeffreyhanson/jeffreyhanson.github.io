@@ -6,6 +6,8 @@ date:   2015-11-22 00:00:00
 categories: experiences
 ---
 
+I have tutored in the following workshops.
+
 * 2011
 	+ "Introducing R" coordinated by Simon Blomberg at The University of Queensland, Australia
 * 2013
