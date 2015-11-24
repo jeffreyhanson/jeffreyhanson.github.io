@@ -7,4 +7,4 @@ categories: publications
 
 ### 2015
 
-* [Beher J., Hanson J. O. (2015). Welcome to the Mapotron. _Decision Point_, 86, 10-11.](http://decision-point.com.au/article/welcome-to-the-mapotron)
+* [Beher J. & Hanson J. O. (2015). Welcome to the Mapotron. _Decision Point_, 86, 10-11.](http://decision-point.com.au/article/welcome-to-the-mapotron)
