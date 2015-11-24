@@ -58,14 +58,9 @@ stackoverflow: paleo13 # stackoverflow ID
 ############################ About Content ################################
 
 ##### Publications #####
-custom_category_name: publications
+custom_category_name: Publications
 custom_category_icon: area-chart # fontawesom icon
 ############################ Publications Content ################################
-
-##### Projects ######
-#custom_category_name: Projects
-#custom_category_icon: star # fontawesom icon
-############################ Projects Content ################################
 
 # Your skills
 #if you remove this, articles with 'skills' category are considerated
