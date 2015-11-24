@@ -17,5 +17,5 @@ I have tutored in the following workshops.
 	+ "Introduction to Geospatial Analysis" coordinated by Hawthorne Beyer at The University of Queensland, Australia.
 	+ "Introduction to Spatial Data Analysis in R" workshop coordinated by Hawthorne Beyer at The University of Queensland, Australia.
 * 2011
-	+ "Introducing R" coordinated by Simon Blomberg at The University of Queensland, Australia
+	+ "Introducing R" coordinated by Simon Blomberg at The University of Queensland, Australia.
 	

@@ -44,6 +44,7 @@ github  : paleo13 # github username
 #facebook: bobafett # facebook username
 #elloco:   bobafett # elloco username
 stackoverflow: paleo13 # stackoverflow ID
+researcherid: O-4536-2015 # ResearcherID
 
 ############################# Site Options ################################
 #favicon         : /assets/bobafett.ico 		# website Favicon  / Need to be local (in assets forlder)
