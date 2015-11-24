@@ -6,7 +6,7 @@ baseurl    : "" # Github subfolder for project . If is your main git or you use 
 url        : "http://jeffrey-hanson.com"  # Url of your site
 
 
-metadata: ["jeff hanson", "github", "conservation", "resume", "CV", "rapr", "marxan", "mapotron"] # Metadata for if you want to analyse your site  with google analytics (code like UA-5293-1)
+metadata: ["jeff hanson", "jeffrey hanson", "jeffrey owen hanson", "jeffrey o hanson", "github", "conservation", "resume", "CV", "rapr", "marxan", "mapotron"] # Metadata for if you want to analyse your site  with google analytics (code like UA-5293-1)
 googleAnalyticsID: "UA-70466840-2"
 ackeeAnalytics: #http://pmpa.ovh:8893/!
 
@@ -24,7 +24,7 @@ SEO_GOOGLE_SITE_VERIFICATION:
 ############################# Personnal Inforamtions ################################
 name   : Jeffrey Hanson #Your name
 summary: Conservation Scientist # a simple sentence about you
-quote  : "This website is still under construction" # a quote about you
+quote  : "I " # a quote about you
 phone  : +61 04 3108 8950 # your phone number
 # vcard  : /assets/leoderbois.vcf
 # street : 6 Delamore Court

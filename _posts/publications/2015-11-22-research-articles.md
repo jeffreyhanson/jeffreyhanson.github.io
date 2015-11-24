@@ -13,6 +13,9 @@ categories: publications
 
 ### 2015
 
-* [Auerbach N.A., Wilson K.A., Tulloch A.I., Rhodes J.R., Hanson J.O. & Possingham H.P. (2015). Effects of threat management interactions on conservation priorities. _Conservation Biology_, 29: 1626-1635.](http://onlinelibrary.wiley.com/doi/10.1111/cobi.12551/full)
+* [Hanson J. O., Salisbury S. W., Campbell H. A., Dwyer R. G., Jardine T. D. & Franklin C. E. (2015). Feeding across the food web: The interaction between diet, movement and body size in estuarine crocodiles (_Crocodylus porosus_). _Austral Ecology_, 40: 275-286.](http://onlinelibrary.wiley.com/doi/10.1111/aec.12212/full)
 
-* [Hanson, J. O., Salisbury, S. W., Campbell, H. A., Dwyer, R. G., Jardine, T. D. & Franklin, C. E. (2015). Feeding across the food web: The interaction between diet, movement and body size in estuarine crocodiles (_Crocodylus porosus_). _Austral Ecology_, 40: 275-286.](http://onlinelibrary.wiley.com/doi/10.1111/aec.12212/full)
+* [Auerbach N. A., Wilson K. A., Tulloch A. I., Rhodes J. R., Hanson J. O. & Possingham H. P. (2015). Effects of threat management interactions on conservation priorities. _Conservation Biology_, 29: 1626-1635.](http://onlinelibrary.wiley.com/doi/10.1111/cobi.12551/full)
+
+* [Rabeb D., Othman D. S., Essilfie A. T., Hansbro P. M., Hanson J. O., McEwan A. G., Kappler U. (2015). Maturation of molybdoenzymes and its influence on the pathogenesis of non-typeable Haemophilus influenzae. _Frontiers in Microbiology_, 6: 01219.](http://www.frontiersin.org/Journal/Abstract.aspx?s=677&name=microbial_physiology_and_metabolism&ART_DOI=10.3389/fmicb.2015.01219)
+
