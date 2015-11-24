@@ -17,15 +17,17 @@
       {% include content/1-header.html %}
 
       <!-- Include Section if one article minumum exist -->
-      {% if site.categories.experiences %}
-        {% include content/2-experiences.html %}
-      {% endif %}
-      {% if site.categories.projects %}
-        {% include content/3-projects.html %}
-      {% endif %}
       {% if site.custom_category_name and site.categories.customs %}
         {% include content/4-customs.html %}
       {% endif %}
+            
+      {% if site.categories.experiences %}
+        {% include content/2-experiences.html %}
+      {% endif %}
+      
+      {% if site.categories.projects %}
+        {% include content/3-projects.html %}
+      {% endif %}      
       
       {% if site.categories.skills or site.skills %}
         {% include content/5-skills.html %}

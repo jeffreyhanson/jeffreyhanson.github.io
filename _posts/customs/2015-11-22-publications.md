@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Publication list"
+title:  ""
 date:   2015-11-22 00:00:00
 categories: customs
 ---
