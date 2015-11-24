@@ -68,25 +68,29 @@ skills:
     - name: Network Adminisation
       values: ["SSH/SFTP", "Install and manage UNIX servers"]
  
- - sectionName: <i-class="fa fa-area-chart"> Analytical skills
+ - sectionName: <i-class="fa fa-area-chart"></i> Statistical skills
    elements:
      - name: Statistical models
        values: ["generalised linear models", "generalised linear mixed-effects models", "occupancy-detection models"]
      - name:  Visualisation
        values: ["ggplot2", "R base graphics"]
-     - name: Bayesian modelling platforms
-       values: ["stan", "JAGS"]   
-     - name: Spatial Analysis
-       values: ["R","ArcMap","QGIS", "MaxEnt", "Circuitscape"]
+     - name:  Modelling platforms
+       values: ["Circuitscape", "stan", "JAGS", "MaxEnt"]
+       
+ - sectionName: <i-class="fa fa-area-chart"></i> Spatial Analytical skills
+     - name: Geogrocessing
+       values: ["R","ArcGIS","QGIS", "GME"]
+     - name: Decision support tools
+       values: ["Marxan", "rapr"]
  
- - sectionName: <i-class="fa fa-wrench"> Tools
+ - sectionName: <i-class="fa fa-wrench"></i> Tools
    elements:
     - name: Typesetting
       values: ["Microsoft Word","TexLive"]
     - name: Operating system
       values: ["Windows","Ubuntu (14.04)", "Linux Mint"]
     - name: IDE
-      values: ["kate", "Atom", "VIM", "Notepad++", "Sublime", "CodeBlocks","Visual Studio"] 
+      values: ["kate", "VIM", "Notepad++", "CodeBlocks"] 
     - name: Version control
       values: ["GitHub", "BitBucket"]
 
