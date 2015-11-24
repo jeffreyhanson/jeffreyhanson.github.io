@@ -1,12 +1,5 @@
 
 .fa-r:before {
 	font-weight: bold;
-	color: #000000;
-	background-color: #EC752B;
 	content: 'R'
-}
-
-.fa-r:hover {
-	color: #000000;
-	background-color: #A62A2C
 }
