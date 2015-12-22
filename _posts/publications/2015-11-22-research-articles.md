@@ -15,7 +15,7 @@ categories: publications
 
 * [Auerbach N. A., Wilson K. A., Tulloch A. I., Rhodes J. R., Hanson J. O. & Possingham H. P. (2015). Effects of threat management interactions on conservation priorities. _Conservation Biology_, 29: 1626-1635.](http://onlinelibrary.wiley.com/doi/10.1111/cobi.12551/full)
 
-* [Bunton J. D., Ernst A. T., Hanson J. O., Beyer H. L., Hammill E., Runge C. A., Venter O., Possingham H. P. & Rhodes J. R. (2015). Integrated planning of linear infrastructure and conservation offsets. In Weber, T., McPhee, M. J., & Andersson R. S. (eds)_MODSIM 2015, 21st International Congress on Modelling and Simulation. Modelling and Simulation Society of Australia and New Zealand, December 2015, pp. 1427-1433.](http://www.mssanz.org.au/modsim2015/F13/bunton.pdf)
+* [Bunton J. D., Ernst A. T., Hanson J. O., Beyer H. L., Hammill E., Runge C. A., Venter O., Possingham H. P. & Rhodes J. R. (2015). Integrated planning of linear infrastructure and conservation offsets. In Weber, T., McPhee, M. J., & Andersson R. S. (eds) MODSIM 2015, 21st International Congress on Modelling and Simulation. Modelling and Simulation Society of Australia and New Zealand, December 2015, pp. 1427-1433.](http://www.mssanz.org.au/modsim2015/F13/bunton.pdf)
 
 * [Rabeb D., Othman D. S., Essilfie A. T., Hansbro P. M., Hanson J. O., McEwan A. G., & Kappler U. (2015). Maturation of molybdoenzymes and its influence on the pathogenesis of non-typeable Haemophilus influenzae. _Frontiers in Microbiology_, 6: 01219.](http://www.frontiersin.org/Journal/Abstract.aspx?s=677&name=microbial_physiology_and_metabolism&ART_DOI=10.3389/fmicb.2015.01219)
 
