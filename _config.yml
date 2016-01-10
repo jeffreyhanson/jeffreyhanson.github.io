@@ -1,12 +1,12 @@
 # Site settings
 title      : Jeffrey Hanson #title of the resume - for browser
 email      : jeffrey.hanson@uqconnect.edu.au # your email
-description: # Not used
+description: Jeffrey Hanson is a PhD candidate at The University of Queensland. His research interests include spatial ecology, conservation planning, and biostatistics.
 baseurl    : "" # Github subfolder for project . If is your main git or you use a CNAME put ""
 url        : "http://jeffrey-hanson.com"  # Url of your site
 
 
-metadata: ["jeff hanson", "jeffrey hanson", "jeffrey owen hanson", "jeffrey o hanson", "github", "conservation", "resume", "CV", "rapr", "marxan", "mapotron"] # Metadata for if you want to analyse your site  with google analytics (code like UA-5293-1)
+metadata: ["jeff hanson", "jeffrey hanson", "jeffrey owen hanson", "jeffrey o hanson", "github", "conservation", "ecology", "spatial", "uq", "the university of queensland", "brisbane", "rapr", "marxan", "mapotron", "resume", "CV"] # Metadata for if you want to analyse your site  with google analytics (code like UA-5293-1)
 googleAnalyticsID: "UA-70466840-2"
 ackeeAnalytics: #http://pmpa.ovh:8893/!
 custom-css: /css/extra.css
@@ -73,7 +73,7 @@ skills:
  - sectionName: <i class="fa fa-bar-chart"></i> Statistical skills
    elements:
      - name: Statistical models
-       values: ["general linear models", "GLMERs", "occupancy-detection models"]
+       values: ["GLMs", "GLMERs", "occupancy-detection models"]
      - name:  Visualisation
        values: ["ggplot2", "R base graphics"]
      - name:  Modelling platforms
