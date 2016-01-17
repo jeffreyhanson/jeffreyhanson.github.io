@@ -7,6 +7,8 @@ categories: publications
 
 ### In Press
 
+* [Dhanjal-Adams K. L., Hanson J. O., Murray N. J., Phinn S. R., Wingate V. R., Mustin K., Lee J. R., Allan J. R., Cappadonna J. L., Studds C. E., Clemens R. S., Roelfsema C. M. & Fuller R. A. In press (accepted December 2015). Distribution and protection of intertidal habitats in Australia. _Emu_.](http://www.publish.csiro.au/view/journals/dsp_journals_pip_abstract_Scholar1.cfm?nid=96&pip=MU15046)
+
 * [Dudaniec R. Y., Worthington Wilmer J., Hanson J. O., Warren M., Bell S., & Rhodes J. R. In press (accepted November 2015). Dealing with uncertainty in landscape genetic resistance models: a case of three co-occurring marsupials. _Molecular Ecology_.](http://onlinelibrary.wiley.com/doi/10.1111/mec.13482/full)
 
 ### 2015
@@ -17,6 +19,6 @@ categories: publications
 
 * [Bunton J. D., Ernst A. T., Hanson J. O., Beyer H. L., Hammill E., Runge C. A., Venter O., Possingham H. P. & Rhodes J. R. (2015). Integrated planning of linear infrastructure and conservation offsets. In Weber, T., McPhee, M. J., & Andersson R. S. (eds) MODSIM 2015, 21st International Congress on Modelling and Simulation. Modelling and Simulation Society of Australia and New Zealand, December 2015, pp. 1427-1433.](http://www.mssanz.org.au/modsim2015/F13/bunton.pdf)
 
-* [Rabeb D., Othman D. S., Essilfie A. T., Hansbro P. M., Hanson J. O., McEwan A. G., & Kappler U. (2015). Maturation of molybdoenzymes and its influence on the pathogenesis of non-typeable Haemophilus influenzae. _Frontiers in Microbiology_, 6: 01219.](http://www.frontiersin.org/Journal/Abstract.aspx?s=677&name=microbial_physiology_and_metabolism&ART_DOI=10.3389/fmicb.2015.01219)
+* [Rabeb D., Othman D. S., Essilfie A. T., Hansbro P. M., Hanson J. O., McEwan A. G. & Kappler U. (2015). Maturation of molybdoenzymes and its influence on the pathogenesis of non-typeable Haemophilus influenzae. _Frontiers in Microbiology_, 6: 01219.](http://www.frontiersin.org/Journal/Abstract.aspx?s=677&name=microbial_physiology_and_metabolism&ART_DOI=10.3389/fmicb.2015.01219)
 
-* [Runge C. A., Watson J. E. M., Butchart H. M., Hanson J. O., Possingham H. P., Fuller R. A. (2015). Protected areas and global conservation of migratory birds. _Science_, 350: 1255-1258.](http://www.sciencemag.org/content/350/6265/1255.abstract)
+* [Runge C. A., Watson J. E. M., Butchart H. M., Hanson J. O., Possingham H. P. & Fuller R. A. (2015). Protected areas and global conservation of migratory birds. _Science_, 350: 1255-1258.](http://www.sciencemag.org/content/350/6265/1255.abstract)
