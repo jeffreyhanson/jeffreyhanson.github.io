@@ -11,7 +11,7 @@ categories: publications
 
 ### 2016 
 
-* [Dudaniec R. Y., Worthington Wilmer J., Hanson J. O., Warren M., Bell S. & Rhodes J. R. In press (2016). Dealing with uncertainty in landscape genetic resistance models: a case of three co-occurring marsupials. _Molecular Ecology_, 25: 470--486.](http://onlinelibrary.wiley.com/doi/10.1111/mec.13482/full)
+* [Dudaniec R. Y., Worthington Wilmer J., Hanson J. O., Warren M., Bell S. & Rhodes J. R. (2016). Dealing with uncertainty in landscape genetic resistance models: a case of three co-occurring marsupials. _Molecular Ecology_, 25: 470-486.](http://onlinelibrary.wiley.com/doi/10.1111/mec.13482/full)
 
 ### 2015
 
