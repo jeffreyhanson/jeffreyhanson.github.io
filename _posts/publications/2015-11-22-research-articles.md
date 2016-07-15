@@ -5,11 +5,10 @@ date:   2015-11-22 00:00:01
 categories: publications
 ---
 
-### In Press
-
-* [Dhanjal-Adams K. L., Hanson J. O., Murray N. J., Phinn S. R., Wingate V. R., Mustin K., Lee J. R., Allan J. R., Cappadonna J. L., Studds C. E., Clemens R. S., Roelfsema C. M. & Fuller R. A. In press (accepted December 2015). Distribution and protection of intertidal habitats in Australia. _Emu_.](http://www.publish.csiro.au/view/journals/dsp_journals_pip_abstract_Scholar1.cfm?nid=96&pip=MU15046)
-
 ### 2016 
+
+* [Dhanjal-Adams K. L., Hanson J. O., Murray N. J., Phinn S. R., Wingate V. R., Mustin K., Lee J. R., Allan J. R., Cappadonna J. L., Studds C. E., Clemens R. S., Roelfsema C. M. & Fuller R. A. (2016). Distribution and protection of intertidal habitats in Australia. _Emu_.](http://www.publish.csiro.au/view/journals/dsp_journals_pip_abstract_Scholar1.cfm?nid=96&pip=MU15046)
+
 
 * [Dudaniec R. Y., Worthington Wilmer J., Hanson J. O., Warren M., Bell S. & Rhodes J. R. (2016). Dealing with uncertainty in landscape genetic resistance models: a case of three co-occurring marsupials. _Molecular Ecology_, 25: 470-486.](http://onlinelibrary.wiley.com/doi/10.1111/mec.13482/full)
 
