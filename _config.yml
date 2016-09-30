@@ -6,7 +6,7 @@ baseurl    : "" # Github subfolder for project . If is your main git or you use 
 url        : "http://jeffrey-hanson.com"  # Url of your site
 
 
-metadata: ["jeff hanson", "jeffrey hanson", "jeffrey owen hanson", "jeffrey o hanson", "github", "conservation", "ecology", "spatial", "uq", "the university of queensland", "brisbane", "rapr", "marxan", "mapotron", "resume", "CV"] # Metadata for if you want to analyse your site  with google analytics (code like UA-5293-1)
+metadata: ["jeff hanson", "jeffrey hanson", "jeffrey owen hanson", "jeffrey o hanson", "github", "conservation", "ecology", "spatial", "uq", "the university of queensland", "brisbane", "raptr", "marxan", "mapotron", "resume", "CV"] # Metadata for if you want to analyse your site  with google analytics (code like UA-5293-1)
 googleAnalyticsID: "UA-70466840-2"
 ackeeAnalytics: #http://pmpa.ovh:8893/!
 custom-css: /css/extra.css
@@ -22,10 +22,10 @@ SEO_IMAGE: /assets/profile.jpg
 SEO_ALEXA_VERIFY_ID:
 SEO_GOOGLE_SITE_VERIFICATION:
 
-############################# Personnal Inforamtions ################################
+############################# Personnal Informations ################################
 name   : Jeffrey Hanson #Your name
 summary: Conservation Scientist # a simple sentence about you
-quote  : "I am fascinated by the application of statistical and spatial analysis to further our understanding of biodiversity, and in turn, how we can use this information to optimize conservation actions to preserve biodiversity" # a quote about you
+quote  : "I am interested in modelling biodiversity patterns and processes, and using this information to optimize conservation actions" # a quote about you
 phone  : +61 04 3108 8950 # your phone number
 # vcard  : /assets/leoderbois.vcf
 # street : 6 Delamore Court
@@ -77,7 +77,7 @@ skills:
      - name:  Visualisation
        values: ["ggplot2", "R base graphics"]
      - name:  Modelling platforms
-       values: ["stan", "MaxEnt"]
+       values: ["stan", "MaxEnt", "jags"]
        
  - sectionName: <i class="fa fa-map-marker"></i> Spatial Analytical skills
    elements:
