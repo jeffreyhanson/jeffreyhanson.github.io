@@ -24,14 +24,14 @@
       {% if site.categories.publications %}
         {% include content/3-publications.html %}
       {% endif %}
-       
-      {% if site.categories.experiences %}
-        {% include content/4-experiences.html %}
-      {% endif %}
-      
+
       {% if site.categories.projects %}
-        {% include content/5-projects.html %}
+        {% include content/4-projects.html %}
       {% endif %}      
+      
+      {% if site.categories.experiences %}
+        {% include content/5-experiences.html %}
+      {% endif %}
       
       {% if site.categories.skills or site.skills %}
         {% include content/6-skills.html %}
