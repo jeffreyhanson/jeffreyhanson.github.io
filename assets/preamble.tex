@@ -1,0 +1,52 @@
+% load packages
+\usepackage{amsmath,amsfonts,float,makecell,titletoc,tocloft,lineno,booktabs,subfiles,textcomp,blindtext,graphicx,natbib,url,hyperref}
+\usepackage[explicit]{titlesec}
+\usepackage[T1]{fontenc}
+\usepackage[normalem]{ulem}
+\usepackage{lmodern}
+\usepackage[utf8]{inputenc}
+\usepackage[onehalfspacing]{setspace}
+\usepackage[english]{babel}
+\usepackage{etoolbox}
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry}
+
+% format links
+\hypersetup{colorlinks=true,urlcolor=blue}
+
+% list formatting
+\usepackage{enumitem}
+\setlist[description]{align=left,leftmargin=2.2cm,style=multiline,font=\normalfont}
+
+% pretty quotes
+\usepackage[autostyle=false, style=english]{csquotes}
+\MakeOuterQuote{"}
+
+% fix bug in section headers not showing numbers
+\makeatletter
+\patchcmd{\ttlh@hang}{\parindent\z@}{\parindent\z@\leavevmode}{}{}
+\patchcmd{\ttlh@hang}{\noindent}{}{}{}
+\makeatother
+
+% set length of space between paragraphs
+\setlength{\parskip}{1em}
+
+% allow breaks in equations
+\allowdisplaybreaks
+
+% format section headers
+\titleformat{\section}[hang]
+  {\normalfont\fontsize{12}{14}\bfseries}
+  {}
+  {1em}
+  {#1}
+\titlespacing{\section}{0pt}{1.5em}{0.1em}
+
+\titleformat{\subsection}[hang]
+  {\normalfont\fontsize{12}{14}\itshape}
+  {}
+  {1em}
+  {#1}
+\titlespacing{\subsection}{0pt}{0.1em}{0.1em}
+
+% disable paragraph indenting
+\setlength{\parindent}{0pt}
