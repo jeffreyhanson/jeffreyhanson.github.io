@@ -20,8 +20,8 @@
 
 
 /* -- >links */
-$link-color                       : $boba-red;
-$link-color-hover                 : $boba-orange;
+$link-color                       : #072F5F;
+$link-color-hover                 : #58CCED;
 
 /* --> Fonts */
 $font-global                      : 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Arial, Helvetica, sans-serif;
@@ -41,8 +41,8 @@ $background-image : "/assets/panel.jpg"; /*Need to be local (in assets forlder)*
 $panel-text-color                 : white;
 $panel-summary-color              : white;
 
-$panel-link-color                 : $boba-orange;
-$panel-link-color-hover           : $boba-red-light;
+$panel-link-color                 : #58CCED;
+$panel-link-color-hover           : #3895D3;
 $panel-nav-color-hover        : transparent;
 
 /* --> background */
@@ -66,11 +66,11 @@ $content-nav-height-to-remove   : 730px; // $screen-sm-min + 30 (30+/- if custom
 $content-background-color         : white;
 $content-text-color               : black;
 
-$content-quote-color              : $boba-red-light-o;
-$content-title-text-color         : $boba-red-light;
+$content-quote-color              : #1261A0;
+$content-title-text-color         : #1261A0;
 $content-post-title-color         : $content-text-color;
 $content-post-info-color          : #818181;
-$content-post-color         : #434343;
+$content-post-color               : #434343;
 $content-link-color               : $link-color;
 $content-link-color-hover         : $link-color-hover;
 $content-title-icon-color         : $content-text-color;
