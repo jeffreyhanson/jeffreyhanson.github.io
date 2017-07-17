@@ -7,7 +7,7 @@ categories: publications
 
 ### 2017
 
-* [**Hanson JO**, Rhodes JR, Possingham HP, & Fuller RA (2017) raptr: Representative and adequate prioritization toolkit in R. _Methods in Ecology \& Evolution_, In press.](http://github.com/jeffreyhanson/raptr-manuscript)
+* [**Hanson JO**, Rhodes JR, Possingham HP, & Fuller RA (2017) raptr: Representative and adequate prioritization toolkit in R. _Methods in Ecology & Evolution_, In press.](http://github.com/jeffreyhanson/raptr-manuscript)
 
 * **Hanson JO**, Rhodes JR, Riginos C, & Fuller RA (2017) Environmental and geographic variables are effective surrogates for genetic variation in conservation planning. Under review.
 
