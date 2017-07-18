@@ -64,7 +64,7 @@ $content-nav-height-to-remove   : 730px; // $screen-sm-min + 30 (30+/- if custom
 /*#######################*/
 /* --> Colors */
 $content-background-color         : white;
-$content-text-color               : ;
+$content-text-color               : #112236;
 
 $content-quote-color              : #112236;
 $content-title-text-color         : #436280;
@@ -94,7 +94,7 @@ $content-pdf-text-size            : $content-post-text-size;
 /*#######################*/
 $footer-background-color          : black;
 $footer-text-color                : grey;
-$footer-link-color                : $panel-link-color;
+$footer-link-color                : $link-color;
 $footer-link-hover-color          : $link-color-hover;
 
 
