@@ -7,11 +7,11 @@ categories: publications
 
 ### 2017
 
-* [**Hanson JO**, Rhodes JR, Possingham HP, & Fuller RA (2017) raptr: Representative and adequate prioritization toolkit in R. _Methods in Ecology & Evolution_, In press.](http://github.com/jeffreyhanson/raptr-manuscript)
+* [**Hanson JO**, Rhodes JR, Possingham HP & Fuller RA (2017) raptr: Representative and adequate prioritization toolkit in R. _Methods in Ecology & Evolution_, In press.](http://github.com/jeffreyhanson/raptr-manuscript)
 
 * **Hanson JO**, Rhodes JR, Riginos C, & Fuller RA (2017) Environmental and geographic variables are effective surrogates for genetic variation in conservation planning. Under review.
 
-### 2016 
+### 2016
 
 * [Dhanjal-Adams KL, **Hanson JO**, Murray NJ, Phinn SR, Wingate VR, Mustin K, Lee JR, Allan JR, Cappadonna JL, Studds CE, Clemens RS, Roelfsema CM & Fuller RA (2016) Distribution and protection of intertidal habitats in Australia. _Emu_.](http://www.publish.csiro.au/mu/MU15046)
 
