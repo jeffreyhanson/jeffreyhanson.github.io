@@ -107,8 +107,7 @@ skills:
 speaking-langugages: ["English (native language)"]
 
 # a link to your PDF version of the remuse. If you remove, the button will disappear.
-#resume_pdf: http://cl.ly/3c3a3F2v0a0v/download/boba_fett.pdf
-
+resume_pdf: https://github.com/jeffreyhanson/jeffreyhanson.github.io/raw/master/assets/jeffrey-hanson-cv.pdf
 
 ############################# Build setting (don't touch!) ################################
 markdown: kramdown
