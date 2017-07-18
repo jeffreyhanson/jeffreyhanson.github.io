@@ -3,15 +3,3 @@
 	font-weight: bold;
 	content: 'R'
 }
-
-/* update colors  */
-$link-color                       : #112236;
-$link-color-hover                 : #436280;
-$panel-link-color-hover           : #436280;
-$panel-link-color                 : #a3bad2;
-$content-quote-color              : #112236;
-$content-title-text-color         : #a3bad2;
-$content-pdf-button-color-hover   : #a3bad2;
-$panel-text-color                 : #dbe4ed;
-$panel-summary-color              : #dbe4ed;
-$content-background-color         : #dbe4ed;
