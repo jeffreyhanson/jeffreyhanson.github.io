@@ -20,8 +20,8 @@
 
 
 /* -- >links */
-$link-color                       : $boba-red;
-$link-color-hover                 : $boba-orange;
+$link-color                       : #112236;
+$link-color-hover                 : #436280;
 
 /* --> Fonts */
 $font-global                      : 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Arial, Helvetica, sans-serif;
@@ -38,11 +38,11 @@ $font-content-post            : $font-global;
 $avatar-image : "/assets/profile.jpg";  /* Need to be local (in assets forlder) */
 $background-image : "/assets/panel.jpg"; /*Need to be local (in assets forlder)*/
 /* --> Colors */
-$panel-text-color                 : white;
-$panel-summary-color              : white;
+$panel-text-color                 : #dbe4ed;
+$panel-summary-color              : #dbe4ed;
 
-$panel-link-color                 : $boba-orange;
-$panel-link-color-hover           : $boba-red-light;
+$panel-link-color                 : #a3bad2;
+$panel-link-color-hover           : #436280;
 $panel-nav-color-hover        : transparent;
 
 /* --> background */
@@ -63,11 +63,11 @@ $content-nav-height-to-remove   : 730px; // $screen-sm-min + 30 (30+/- if custom
 /*#       CONTENT       #*/
 /*#######################*/
 /* --> Colors */
-$content-background-color         : white;
+$content-background-color         : #dbe4ed;
 $content-text-color               : black;
 
-$content-quote-color              : $boba-red-light-o;
-$content-title-text-color         : $boba-red-light;
+$content-quote-color              : #112236;
+$content-title-text-color         : #436280;
 $content-post-title-color         : $content-text-color;
 $content-post-info-color          : #818181;
 $content-post-color               : #434343;
@@ -82,7 +82,7 @@ $content-pdf-button-color-hover   : $boba-orange;
 
 /* --> sizes */
 $content-post-text-size           : 18px;
-$content-quote-font-size          : 20px;
+$content-quote-font-size          : 40px;
 $content-section-title-size       : 35px;
 $content-post-title-font-size     : 22px;
 $content-post-info-font-size      : 15px;
