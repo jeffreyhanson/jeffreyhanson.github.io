@@ -7,13 +7,15 @@ categories: publications
 
 ### 2017
 
-* [**Hanson JO**, Rhodes JR, Possingham HP & Fuller RA (2017) raptr: Representative and adequate prioritization toolkit in R. _Methods in Ecology & Evolution_, In press.](http://github.com/jeffreyhanson/raptr-manuscript)
+* [**Hanson JO**, Rhodes JR, Possingham HP & Fuller RA (2017) raptr: Representative and adequate prioritization toolkit in R. _Methods in Ecology & Evolution_, In press. DOI: 10.1111/2041-210X.12862 .](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12862/abstract)
 
 * **Hanson JO**, Rhodes JR, Riginos C, & Fuller RA (2017) Environmental and geographic variables are effective surrogates for genetic variation in conservation planning. Under review.
 
+* Mather AT, **Hanson JO**, Pope LC & Riginos C (2017) Comparative phylogeography of two co-distributed but ecologically distinct rainbowfishes of far-northern Australia. _Journal of Biogeography_, Accepted.
+
 ### 2016
 
-* [Dhanjal-Adams KL, **Hanson JO**, Murray NJ, Phinn SR, Wingate VR, Mustin K, Lee JR, Allan JR, Cappadonna JL, Studds CE, Clemens RS, Roelfsema CM & Fuller RA (2016) Distribution and protection of intertidal habitats in Australia. _Emu_.](http://www.publish.csiro.au/mu/MU15046)
+* [Dhanjal-Adams KL, **Hanson JO**, Murray NJ, Phinn SR, Wingate VR, Mustin K, Lee JR, Allan JR, Cappadonna JL, Studds CE, Clemens RS, Roelfsema CM & Fuller RA (2016) Distribution and protection of intertidal habitats in Australia. _Emu_, 116: 208--214 ](http://www.publish.csiro.au/mu/MU15046)
 
 
 * [Dudaniec RY, Worthington Wilmer J, **Hanson JO**, Warren M, Bell S & Rhodes JR (2016) Dealing with uncertainty in landscape genetic resistance models: a case of three co-occurring marsupials. _Molecular Ecology_, 25: 470-486.](http://onlinelibrary.wiley.com/doi/10.1111/mec.13482/full)
