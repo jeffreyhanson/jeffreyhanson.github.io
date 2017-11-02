@@ -7,9 +7,10 @@ categories: publications
 
 ### 2017
 
+* [**Hanson JO**, Rhodes JR, Riginos C, & Fuller RA (2017) Environmental and geographic variables are effective surrogates for genetic variation in conservation planning. _Proceedings of the National Academy of Sciences of the United States of America_, In press. DOI: 10.1073/pnas.1711009114](https://dx.doi.org/10.1073/pnas.1711009114)
+
 * [**Hanson JO**, Rhodes JR, Possingham HP & Fuller RA (2017) raptr: Representative and adequate prioritization toolkit in R. _Methods in Ecology & Evolution_, In press. DOI: 10.1111/2041-210X.12862 .](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12862/abstract)
 
-* **Hanson JO**, Rhodes JR, Riginos C, & Fuller RA (2017) Environmental and geographic variables are effective surrogates for genetic variation in conservation planning. Under review.
 
 * Mather AT, **Hanson JO**, Pope LC & Riginos C (2017) Comparative phylogeography of two co-distributed but ecologically distinct rainbowfishes of far-northern Australia. _Journal of Biogeography_, Accepted.
 
