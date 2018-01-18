@@ -15,19 +15,19 @@ categories: publications
 
 ### 2016
 
-* [Dhanjal-Adams KL, **Hanson JO**, Murray NJ, Phinn SR, Wingate VR, Mustin K, Lee JR, Allan JR, Cappadonna JL, Studds CE, Clemens RS, Roelfsema CM & Fuller RA (2016) Distribution and protection of intertidal habitats in Australia. _Emu_, 116: 208--214 ](https://doi.org/10.1071/MU15046)
+* [Dhanjal-Adams KL, **Hanson JO**, Murray NJ, Phinn SR, Wingate VR, Mustin K, Lee JR, Allan JR, Cappadonna JL, Studds CE, Clemens RS, Roelfsema CM & Fuller RA (2016) The distribution and protection of intertidal habitats in Australia. _Emu_, 116: 208--214 ](https://doi.org/10.1071/MU15046)
 
 
 * [Dudaniec RY, Worthington Wilmer J, **Hanson JO**, Warren M, Bell S & Rhodes JR (2016) Dealing with uncertainty in landscape genetic resistance models: a case of three co-occurring marsupials. _Molecular Ecology_, 25: 470-486.](http://dx.doi.org/10.1111/mec.13482)
 
 ### 2015
 
-* [**Hanson J. O.**, Salisbury SW, Campbell HA, Dwyer RG, Jardine TD & Franklin CE (2015) Feeding across the food web: The interaction between diet, movement and body size in estuarine crocodiles (_Crocodylus porosus_). _Austral Ecology_, 40: 275-286.](http:dx.doi.org/10.1111/aec.12212)
+* [**Hanson J. O.**, Salisbury SW, Campbell HA, Dwyer RG, Jardine TD & Franklin CE (2015) Feeding across the food web: The interaction between diet, movement and body size in estuarine crocodiles (_Crocodylus porosus_). _Austral Ecology_, 40: 275-286.](http://dx.doi.org/10.1111/aec.12212)
 
 * [Auerbach NA, Wilson KA, Tulloch AI, Rhodes JR, **Hanson JO** & Possingham HP (2015) Effects of threat management interactions on conservation priorities. _Conservation Biology_, 29: 1626-1635.](http://dx.doi.org/10.1111/cobi.12551)
 
 * [Bunton JD, Ernst AT, **Hanson JO**, Beyer HL, Hammill E, Runge CA, Venter O, Possingham HP & Rhodes JR (2015) Integrated planning of linear infrastructure and conservation offsets. In Weber, T., McPhee, M. J., & Andersson R. S. (eds) MODSIM 2015, 21st International Congress on Modelling and Simulation. Modelling and Simulation Society of Australia and New Zealand, December 2015, pp. 1427-1433.](http://www.mssanz.org.au/modsim2015/F13/bunton.pdf)
 
-* [Rabeb D, Othman DS, Essilfie AT, Hansbro PM, **Hanson JO**, McEwan AG & Kappler U (2015) Maturation of molybdoenzymes and its influence on the pathogenesis of non-typeable Haemophilus influenzae. _Frontiers in Microbiology_, 6: 01219.](http:dx.doi.org/10.3389/fmicb.2015.01219)
+* [Rabeb D, Othman DS, Essilfie AT, Hansbro PM, **Hanson JO**, McEwan AG & Kappler U (2015) Maturation of molybdoenzymes and its influence on the pathogenesis of non-typeable Haemophilus influenzae. _Frontiers in Microbiology_, 6: 01219.](http://dx.doi.org/10.3389/fmicb.2015.01219)
 
 * [Runge CA, Watson JEM, Butchart SHM, **Hanson JO**, Possingham HP & Fuller RA (2015) Protected areas and global conservation of migratory birds. _Science_, 350: 1255-1258.](http://www.sciencemag.org/content/350/6265/1255.abstract)
