@@ -3,7 +3,7 @@ layout: post
 title:  "prioritizr R package"
 urlProject: "http://github.com/prioritizr/prioritizr"
 
-date:   2016-11-05 00:00:01
+date:   2018-01-17 00:00:01
 categories : projects
 ---
 
