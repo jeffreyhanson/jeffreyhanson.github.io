@@ -5,13 +5,15 @@ date:   2015-11-22 00:00:01
 categories: publications
 ---
 
+### 2018
+
+* [**Hanson JO**, Rhodes JR, Possingham HP & Fuller RA (2018) raptr: Representative and adequate prioritization toolkit in R. _Methods in Ecology & Evolution_, 9: 320--330.](https://doi.org/10.1111/2041-210X.12862)
+
 ### 2017
 
-* [**Hanson JO**, Rhodes JR, Riginos C, & Fuller RA (2017) Environmental and geographic variables are effective surrogates for genetic variation in conservation planning. _Proceedings of the National Academy of Sciences of the United States of America_, In press. DOI: 10.1073/pnas.1711009114](https://dx.doi.org/10.1073/pnas.1711009114)
+* [**Hanson JO**, Rhodes JR, Riginos C, & Fuller RA (2017) Environmental and geographic variables are effective surrogates for genetic variation in conservation planning. _Proceedings of the National Academy of Sciences of the United States of America_, 114: 12755--12760.](https://dx.doi.org/10.1073/pnas.1711009114)
 
-* [**Hanson JO**, Rhodes JR, Possingham HP & Fuller RA (2017) raptr: Representative and adequate prioritization toolkit in R. _Methods in Ecology & Evolution_, In press. DOI: 10.1111/2041-210X.12862 .](http://dx.doi.org/10.1111/2041-210X.12862)
-
-* [Mather AT, **Hanson JO**, Pope LC & Riginos C (2017) Comparative phylogeography of two co-distributed but ecologically distinct rainbowfishes of far-northern Australia. _Journal of Biogeography_, 45: 127--141.](http://dx.doi.org/10.1111/jbi.13117)
+* [Mather AT, **Hanson JO**, Pope LC & Riginos C (2017) Comparative phylogeography of two co-distributed but ecologically distinct rainbowfishes of far-northern Australia. _Journal of Biogeography_, 45: 127--141.](https://dx.doi.org/10.1111/jbi.13117)
 
 ### 2016
 
