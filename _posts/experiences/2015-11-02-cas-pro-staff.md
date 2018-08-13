@@ -4,7 +4,7 @@ title: "Casual Professional Staff"
 company: "The University of Queensland"
 city: Brisbane, Australia
 date: 2015-11-22 00:00:03
-entrydate : 2012
+entrydate: 2012
 outdate: 2017
 time: Five semesters over five years
 categories: experiences
