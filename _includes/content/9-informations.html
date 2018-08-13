@@ -17,7 +17,7 @@ content-list">
     </ul>
     </div>
 
-    <div class="col-lg-4 col-md-6  col-sm-12 col-xs-12">
+    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
     <h4>Social Networking</h4>
     <ul >
       {% if site.linkedin %}<li><a href="http://fr.linkedin.com/in/{{site.linkedin}}" target="_blank"><i class="fa fa-linkedin" target="_blank"></i> {{site.name}}</a></li>{% endif %}
@@ -27,31 +27,11 @@ content-list">
       {% if site.stackoverflow %}<li><a href="http://stackoverflow.com/users/{{site.stackoverflow}}" target="_blank"><i class="fa fa-stack-overflow"></i> ID: {{site.stackoverflow}}</a></li>{% endif %}
       {% if site.facebook %}<li><a href="https://www.facebook.com/{{site.facebok}}" target="_blank"><i class="fa fa-facebook"></i> {{site.facebook}}</a></li>{% endif %}
       {% if site.elloco %}<li><a href="https://ello.co/{{site.elloco}}" target="_blank"><i class="fa fa-smile-o"></i> ello.co/{{site.elloco}}</a></li>{% endif %}
-      {% if site.researcherid %}<li><a href="http://www.researcherid.com/rid/{{site.researcherid}}" target="_blank"  class="noresponsiveMD"><i class="fa fa-r"></i> {{site.researcherid}}</a></li>{% endif %}
-      {% if site.scholarid %}<li><a href="https://scholar.google.com.au/citations?user={{site.scholarid}}" target="_blank"  class="noresponsiveMD"><i class="fa fa-google"></i></a></li>{% endif %}
+      {% if site.researcherid %}<li><a href="http://www.researcherid.com/rid/{{site.researcherid}}" target="_blank" class="noresponsiveMD"><i class="fa fa-r"></i> {{site.researcherid}}</a></li>{% endif %}
+      {% if site.scholarid %}<li><a href="https://scholar.google.com.au/citations?user={{site.scholarid}}" target="_blank" class="noresponsiveMD"><i class="fa fa-google"></i> ID: {{site.scholarid}}</a></li>{% endif %}
     </ul>
     </div>
 
-    {% if site.informations-custom and site.speaking-langugages %}
-    <div class="col-lg-4 col-md-6  col-sm-12 col-xs-12">
-    <h4>Others</h4>
-    <ul>
-      {% for custom in site.informations-custom %}
-      	<li><i class="fa fa-{% if custom.logo %}{{ custom.logo }}{% else %}info{% endif %}"></i> {{ custom.text }}</li>
-      {% endfor %}
-
-      {% if site.speaking-langugages %}
-      <li><i class="fa fa-language"></i> Languages :
-        <ul>
-         {% for lang in site.speaking-langugages %}
-          <li>{{lang}} </li>
-          {% endfor %}
-        </ul>
-      </li>
-      {% endif %}
-    </ul>
-    {% endif %}
-    </div>
   </div>
 
   </section>
