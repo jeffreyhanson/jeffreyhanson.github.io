@@ -1,6 +1,6 @@
 ---
 layout: post
-date:   2017-11-05 00:00:01
+date: 2017-11-05 00:00:01
 categories : aboutme
 ---
 

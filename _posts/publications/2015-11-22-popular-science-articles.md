@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Popular science articles"
-date:   2015-11-22 00:00:00
+title: "Popular science articles"
+date: 2015-11-22 00:00:00
 categories: publications
 ---
 

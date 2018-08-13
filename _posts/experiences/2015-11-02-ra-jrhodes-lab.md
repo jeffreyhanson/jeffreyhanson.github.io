@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Research Assistant in the Rhodes Lab"
+title: "Research Assistant in the Rhodes Lab"
 company: "The University of Queensland"
 city: Brisbane, Australia
-date:   2015-11-22 00:00:01
+date: 2015-11-22 00:00:01
 entrydate : 2012
 outdate: 2013
 time : 1 year
