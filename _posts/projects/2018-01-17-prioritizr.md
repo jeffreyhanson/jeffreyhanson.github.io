@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "prioritizr R package"
-urlProject: "http://github.com/prioritizr/prioritizr"
-
+urlProject: "https://prioritizr.net"
 date:   2018-01-17 00:00:01
 categories : projects
 ---
