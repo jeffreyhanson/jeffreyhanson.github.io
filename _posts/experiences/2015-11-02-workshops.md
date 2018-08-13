@@ -11,7 +11,7 @@ categories: experiences
 I have tutored in the following workshops.
 
 * 2017
-	+ "_Use of Machine Learning in Conservation, Moving beyond just Maxent and SDMs_" coordinate by Falk Huettmann at the 28th International Congress of Conservation Biology, Cartagena, Colombia.
+	+ "_Use of Machine Learning in Conservation, Moving beyond just Maxent and SDMs_" coordinated by Falk Huettmann at the 28th International Congress of Conservation Biology, Cartagena, Colombia.
 * 2015
 	+ _"Geospatial Analysis in R"_ coordinated by Hawthorne Beyer, Rebbecca Runting and Jutta Beher at the Student Conference of Conservation Science, Australia.
 	+ _"Smoothing the Marxan Flow with R"_ coordinated by Matthew Watts at the Student Conference of Conservation Science, Australia.
