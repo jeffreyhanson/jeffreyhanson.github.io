@@ -7,6 +7,8 @@ categories: publications
 
 ### 2018
 
+* [**Hanson JO**, Fuller RA, & Rhodes JR (2018) Conventional methods for enhancing connectivity in conservation planning do not always maintain gene flow. _Journal of Applied Ecology_, In press: \url{https://doi.org/10.1111/1365-2664.13315}.](https://doi.org/10.1111/1365-2664.13315)
+
 * [**Hanson JO**, Rhodes JR, Possingham HP & Fuller RA (2018) raptr: Representative and adequate prioritization toolkit in R. _Methods in Ecology & Evolution_, 9: 320--330.](https://doi.org/10.1111/2041-210X.12862)
 
 ### 2017
