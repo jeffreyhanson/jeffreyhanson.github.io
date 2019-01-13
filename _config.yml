@@ -3,7 +3,7 @@ title      : Jeffrey Hanson #title of the resume - for browser
 email      : jeffrey.hanson@uqconnect.edu.au # your email
 description: Jeffrey Hanson is a PhD candidate at The University of Queensland. His research interests include spatial ecology, conservation planning, and biostatistics.
 baseurl    : "" # Github subfolder for project . If is your main git or you use a CNAME put ""
-url        : "http://jeffrey-hanson.com"  # Url of your site
+url        : "https://jeffrey-hanson.com"  # Url of your site
 
 
 metadata: ["jeff hanson", "jeffrey hanson", "jeffrey owen hanson", "jeffrey o hanson", "github", "conservation", "ecology", "spatial", "uq", "the university of queensland", "brisbane", "raptr", "marxan", "mapotron", "resume", "CV"] # Metadata for if you want to analyse your site  with google analytics (code like UA-5293-1)
