@@ -49,7 +49,7 @@ stackoverflow: 3483791 # stackoverflow ID
 scholarid: -CJml_sAAAAJ&hl # Google scholar ID
 
 ############################# Site Options ################################
-favicon          : assets/favicon.ico 		# website Favicon  / Need to be local (in assets forlder)
+favicon          : /assets/favicon.ico 		# website Favicon  / Need to be local (in assets forlder)
 #avatar          : NOW IN BOBAFETT.less
 #panel_background: NOW IN BOBAFETT.less
 #enable_ribbon   : yes 						# remove this line to remove the github ribbon
