@@ -1,12 +1,12 @@
 # Site settings
 title      : Jeffrey Hanson #title of the resume - for browser
 email      : jeffrey.hanson@uqconnect.edu.au # your email
-description: Jeffrey Hanson is a PhD candidate at The University of Queensland. His research interests include spatial ecology, conservation planning, and biostatistics.
+description: Jeffrey Hanson is a postdoctoral researcher at CIBIO-InBIO, University of Porto.
 baseurl    : "" # Github subfolder for project . If is your main git or you use a CNAME put ""
 url        : "https://jeffrey-hanson.com"  # Url of your site
 
 
-metadata: ["jeff hanson", "jeffrey hanson", "jeffrey owen hanson", "jeffrey o hanson", "github", "conservation", "ecology", "spatial", "uq", "the university of queensland", "brisbane", "raptr", "marxan", "mapotron", "resume", "CV"] # Metadata for if you want to analyse your site  with google analytics (code like UA-5293-1)
+metadata: ["jeff hanson", "jeffrey hanson", "jeffrey owen hanson", "jeffrey o hanson", "github", "conservation", "ecology", "spatial", "decision", "uq", "the university of queensland", "cibio", "university of porto", "inbio", "cibio-inbio", "brisbane", "raptr", "marxan", "mapotron", "resume", "prioritizr", "prioritization", "prioritisation", "prioritize", "prioritise", "optimize", "optimise", "optimization", "optimisation", "CV"] # Metadata for if you want to analyse your site  with google analytics (code like UA-5293-1)
 googleAnalyticsID: "UA-70466840-2"
 ackeeAnalytics: #http://pmpa.ovh:8893/!
 custom-css: /css/extra.css
