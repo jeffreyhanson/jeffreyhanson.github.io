@@ -7,7 +7,7 @@ categories: publications
 
 ### 2019
 
-* [**Hanson JO**,  Schuster R, Strimas-Mackey M, Bennett JR (in press) Optimality in prioritizing conservation projects. _Methods in Ecology \& Evolution_, https://doi.org/10.1111/2041-210X.13264.](https://doi.org/10.1111/2041-210X.13264)
+* [**Hanson JO**,  Schuster R, Strimas-Mackey M, Bennett JR (in press) Optimality in prioritizing conservation projects. _Methods in Ecology & Evolution_, https://doi.org/10.1111/2041-210X.13264.](https://doi.org/10.1111/2041-210X.13264)
 
 * [**Hanson JO**, Fuller RA, & Rhodes JR (2019) Conventional methods for enhancing connectivity in conservation planning do not always maintain gene flow. _Journal of Applied Ecology_, 56: 913--922.](https://doi.org/10.1111/1365-2664.13315)
 
