@@ -7,9 +7,9 @@ categories: publications
 
 ### 2019
 
-* [**Hanson JO**,  Schuster R, Strimas-Mackey M, Bennett JR (in press) Optimality in prioritizing conservation projects. _Methods in Ecology & Evolution_, https://doi.org/10.1111/2041-210X.13264.](https://doi.org/10.1111/2041-210X.13264)
+* [**Hanson JO**,  Schuster R, Strimas-Mackey M & Bennett JR (2019) Optimality in prioritizing conservation projects. _Methods in Ecology & Evolution_, 10: 1655--1663.](https://doi.org/10.1111/2041-210X.13264)
 
-* [**Hanson JO**, Fuller RA, & Rhodes JR (2019) Conventional methods for enhancing connectivity in conservation planning do not always maintain gene flow. _Journal of Applied Ecology_, 56: 913--922.](https://doi.org/10.1111/1365-2664.13315)
+* [**Hanson JO**, Fuller RA & Rhodes JR (2019) Conventional methods for enhancing connectivity in conservation planning do not always maintain gene flow. _Journal of Applied Ecology_, 56: 913--922.](https://doi.org/10.1111/1365-2664.13315)
 
 
 ### 2018
@@ -18,7 +18,7 @@ categories: publications
 
 ### 2017
 
-* [**Hanson JO**, Rhodes JR, Riginos C, & Fuller RA (2017) Environmental and geographic variables are effective surrogates for genetic variation in conservation planning. _Proceedings of the National Academy of Sciences of the United States of America_, 114: 12755--12760.](https://dx.doi.org/10.1073/pnas.1711009114)
+* [**Hanson JO**, Rhodes JR, Riginos C & Fuller RA (2017) Environmental and geographic variables are effective surrogates for genetic variation in conservation planning. _Proceedings of the National Academy of Sciences of the United States of America_, 114: 12755--12760.](https://dx.doi.org/10.1073/pnas.1711009114)
 
 * [Mather AT, **Hanson JO**, Pope LC & Riginos C (2017) Comparative phylogeography of two co-distributed but ecologically distinct rainbowfishes of far-northern Australia. _Journal of Biogeography_, 45: 127--141.](https://dx.doi.org/10.1111/jbi.13117)
 
@@ -35,7 +35,7 @@ categories: publications
 
 * [Auerbach NA, Wilson KA, Tulloch AI, Rhodes JR, **Hanson JO** & Possingham HP (2015) Effects of threat management interactions on conservation priorities. _Conservation Biology_, 29: 1626-1635.](http://dx.doi.org/10.1111/cobi.12551)
 
-* [Bunton JD, Ernst AT, **Hanson JO**, Beyer HL, Hammill E, Runge CA, Venter O, Possingham HP & Rhodes JR (2015) Integrated planning of linear infrastructure and conservation offsets. In Weber, T., McPhee, M. J., & Andersson R. S. (eds) MODSIM 2015, 21st International Congress on Modelling and Simulation. Modelling and Simulation Society of Australia and New Zealand, December 2015, pp. 1427-1433.](http://www.mssanz.org.au/modsim2015/F13/bunton.pdf)
+* [Bunton JD, Ernst AT, **Hanson JO**, Beyer HL, Hammill E, Runge CA, Venter O, Possingham HP & Rhodes JR (2015) Integrated planning of linear infrastructure and conservation offsets. In Weber, T., McPhee, M. J. & Andersson R. S. (eds) MODSIM 2015, 21st International Congress on Modelling and Simulation. Modelling and Simulation Society of Australia and New Zealand, December 2015, pp. 1427-1433.](http://www.mssanz.org.au/modsim2015/F13/bunton.pdf)
 
 * [Rabeb D, Othman DS, Essilfie AT, Hansbro PM, **Hanson JO**, McEwan AG & Kappler U (2015) Maturation of molybdoenzymes and its influence on the pathogenesis of non-typeable Haemophilus influenzae. _Frontiers in Microbiology_, 6: 01219.](http://dx.doi.org/10.3389/fmicb.2015.01219)
 
