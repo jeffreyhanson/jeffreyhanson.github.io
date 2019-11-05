@@ -7,6 +7,8 @@ categories: publications
 
 ### 2019
 
+* [Ambrose L, **Hanson JO**, Riginos C, Xu W, Fordyce S, Cooper RD, Beebe NW (in press) Population genetics of _Anopheles koliensis_ through Papua New Guinea: New cryptic species and landscape topography effects on genetic connectivity. _Ecology & Evolution_, available at: https://doi.org/10.1002/ece3.5792.](https://doi.org/10.1002/ece3.5792)
+
 * [**Hanson JO**,  Schuster R, Strimas-Mackey M & Bennett JR (2019) Optimality in prioritizing conservation projects. _Methods in Ecology & Evolution_, 10: 1655--1663.](https://doi.org/10.1111/2041-210X.13264)
 
 * [**Hanson JO**, Fuller RA & Rhodes JR (2019) Conventional methods for enhancing connectivity in conservation planning do not always maintain gene flow. _Journal of Applied Ecology_, 56: 913--922.](https://doi.org/10.1111/1365-2664.13315)
@@ -25,7 +27,6 @@ categories: publications
 ### 2016
 
 * [Dhanjal-Adams KL, **Hanson JO**, Murray NJ, Phinn SR, Wingate VR, Mustin K, Lee JR, Allan JR, Cappadonna JL, Studds CE, Clemens RS, Roelfsema CM & Fuller RA (2016) The distribution and protection of intertidal habitats in Australia. _Emu_, 116: 208--214 ](https://doi.org/10.1071/MU15046)
-
 
 * [Dudaniec RY, Worthington Wilmer J, **Hanson JO**, Warren M, Bell S & Rhodes JR (2016) Dealing with uncertainty in landscape genetic resistance models: a case of three co-occurring marsupials. _Molecular Ecology_, 25: 470-486.](http://dx.doi.org/10.1111/mec.13482)
 
