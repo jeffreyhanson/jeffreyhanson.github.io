@@ -1,7 +1,7 @@
 # Site settings
 title      : Jeffrey Hanson #title of the resume - for browser
 email      : jeffrey.hanson@uqconnect.edu.au # your email
-description: Jeffrey Hanson is a postdoctoral researcher at CIBIO-InBIO, University of Porto.
+description: Jeffrey Hanson is a postdoctoral researcher at Carleton University, Canada.
 baseurl    : "" # Github subfolder for project . If is your main git or you use a CNAME put ""
 url        : "https://jeffrey-hanson.com"  # Url of your site
 
