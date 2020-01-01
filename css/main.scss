@@ -13,11 +13,16 @@
 /*################################################################################*/
 
 /*#######################*/
-/*#       GENERAL       #*/
+/*#       COLORS       #*/
 /*#######################*/
 
+$dark-color                       : #273400;
+$medium-color                     : #335F00;
+$light-color                      : #ADCB8F;
 
-
+/*#######################*/
+/*#       GENERAL       #*/
+/*#######################*/
 
 /* -- >links */
 $link-color                       : $dark-color;
@@ -63,10 +68,6 @@ $content-nav-height-to-remove   : 730px; // $screen-sm-min + 30 (30+/- if custom
 /*#       CONTENT       #*/
 /*#######################*/
 /* --> Colors */
-$dark-color: #273400;
-$medium-color: #335F00;
-$light-color: #ADCB8F;
-
 $content-background-color         : white;
 $content-text-color               : $dark-color;
 $content-quote-color              : $dark-color;
