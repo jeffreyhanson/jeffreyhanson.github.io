@@ -26,7 +26,7 @@ $light-color                      : #ADCB8F;
 
 /* -- >links */
 $link-color                       : $dark-color;
-$link-color-hover                 : $medium-color
+$link-color-hover                 : $medium-color;
 
 /* --> Fonts */
 $font-global                      : 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Arial, Helvetica, sans-serif;
@@ -47,7 +47,7 @@ $panel-text-color                 : white;
 $panel-summary-color              : white;
 
 $panel-link-color                 : $light-color;
-$panel-link-color-hover           : $medium-color
+$panel-link-color-hover           : $medium-color;
 $panel-nav-color-hover        : transparent;
 
 /* --> background */
@@ -71,17 +71,17 @@ $content-nav-height-to-remove   : 730px; // $screen-sm-min + 30 (30+/- if custom
 $content-background-color         : white;
 $content-text-color               : $dark-color;
 $content-quote-color              : $dark-color;
-$content-title-text-color         : $medium-color
+$content-title-text-color         : $medium-color;
 $content-post-title-color         : $dark-color;
 $content-post-info-color          : #818181;
 $content-post-color               : #434343;
-$content-link-color               : $medium-color
-$content-link-color-hover         : $medium-color
+$content-link-color               : $medium-color;
+$content-link-color-hover         : $medium-color;
 $content-title-icon-color         : $dark-color;
 $content-post-icon-color          : $dark-color;
 $content-pdf-button-color         : $dark-color;
 $content-pdf-text-color           : white;
-$content-pdf-button-color-hover   : $medium-color
+$content-pdf-button-color-hover   : $medium-color;
 
 
 /* --> sizes */
