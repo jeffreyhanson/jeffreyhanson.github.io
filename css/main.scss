@@ -20,8 +20,8 @@
 
 
 /* -- >links */
-$link-color                       : #112236;
-$link-color-hover                 : #436280;
+$link-color                       : $dark-color;
+$link-color-hover                 : $medium-color
 
 /* --> Fonts */
 $font-global                      : 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Arial, Helvetica, sans-serif;
@@ -41,8 +41,8 @@ $background-image : "/assets/panel.jpg"; /*Need to be local (in assets forlder)*
 $panel-text-color                 : white;
 $panel-summary-color              : white;
 
-$panel-link-color                 : #a3bad2;
-$panel-link-color-hover           : #436280;
+$panel-link-color                 : $light-color;
+$panel-link-color-hover           : $medium-color
 $panel-nav-color-hover        : transparent;
 
 /* --> background */
@@ -63,21 +63,24 @@ $content-nav-height-to-remove   : 730px; // $screen-sm-min + 30 (30+/- if custom
 /*#       CONTENT       #*/
 /*#######################*/
 /* --> Colors */
-$content-background-color         : white;
-$content-text-color               : #112236;
+$dark-color: #273400;
+$medium-color: #335F00;
+$light-color: #ADCB8F;
 
-$content-quote-color              : #112236;
-$content-title-text-color         : #436280;
-$content-post-title-color         : $content-text-color;
+$content-background-color         : white;
+$content-text-color               : $dark-color;
+$content-quote-color              : $dark-color;
+$content-title-text-color         : $medium-color
+$content-post-title-color         : $dark-color;
 $content-post-info-color          : #818181;
 $content-post-color               : #434343;
-$content-link-color               : #436280;
-$content-link-color-hover         : #436280;
-$content-title-icon-color         : $content-text-color;
-$content-post-icon-color          : $content-text-color;
-$content-pdf-button-color         : #112236;
+$content-link-color               : $medium-color
+$content-link-color-hover         : $medium-color
+$content-title-icon-color         : $dark-color;
+$content-post-icon-color          : $dark-color;
+$content-pdf-button-color         : $dark-color;
 $content-pdf-text-color           : white;
-$content-pdf-button-color-hover   : #436280;
+$content-pdf-button-color-hover   : $medium-color
 
 
 /* --> sizes */
@@ -95,7 +98,7 @@ $content-pdf-text-size            : $content-post-text-size;
 $footer-background-color          : black;
 $footer-text-color                : grey;
 $footer-link-color                : $link-color-hover;
-$footer-link-hover-color          : #a3bad2;
+$footer-link-hover-color          : $light-color;
 
 
 // Don't remove, it's all layouts !
