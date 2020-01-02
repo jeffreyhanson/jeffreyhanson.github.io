@@ -59,43 +59,6 @@ custom_category_name: Publications
 custom_category_icon: bullhorn # fontawesom icon
 ############################ Publications Content ################################
 
-# Your skills
-#if you remove this, articles with 'skills' category are considerated
-skills:
- - sectionName: <i class="fa fa-terminal"></i> Computational skills
-   elements:
-    - name: Programming languages
-      values: ["R","Python","C++"]
-    - name: Database
-      values: ["Microsoft Access","JSON/XML/YAML"]
-    - name: Network Adminisation
-      values: ["SSH/SFTP", "Install and manage UNIX servers"]
-
- - sectionName: <i class="fa fa-bar-chart"></i> Statistical skills
-   elements:
-     - name: Statistical models
-       values: ["GLMs", "GLMERs", "occupancy-detection models"]
-     - name:  Visualisation
-       values: ["ggplot2", "R base graphics"]
-     - name:  Modelling platforms
-       values: ["stan", "MaxEnt", "jags"]
-
- - sectionName: <i class="fa fa-map-marker"></i> Spatial Analytical skills
-   elements:
-     - name: Geogrocessing
-       values: ["R","ArcGIS","Circuitscape"]
-     - name: Decision support tools
-       values: ["Marxan", "raptr"]
-
- - sectionName: <i class="fa fa-wrench"></i> Tools
-   elements:
-    - name: Typesetting
-      values: ["Microsoft Word","LaTeX"]
-    - name: Operating system
-      values: ["Windows","Ubuntu (14.04)"]
-    - name: Version control
-      values: ["GitHub"]
-
 # Some inforamtions you want to add
 #informations-custom:
 #- text: Space ship drive Licence + vehicle
