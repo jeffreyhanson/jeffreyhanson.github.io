@@ -30,18 +30,18 @@ $link-color-hover                 : $medium-color;
 
 /* --> Fonts */
 $font-global                      : 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Arial, Helvetica, sans-serif;
-$font-panel             : $font-global;
-$font-content-quote         : Georgia, serif;
-$font-content-section-title     : $font-global;
-$font-content-post-title      : $font-global;
-$font-content-post            : $font-global;
+$font-panel                       : $font-global;
+$font-content-quote               : Georgia, serif;
+$font-content-section-title       : $font-global;
+$font-content-post-title          : $font-global;
+$font-content-post                : $font-global;
 
 /*#######################*/
 /*#        PANEL        #*/
 /*#######################*/
 /* --> ressources */
-$avatar-image : "/assets/profile.jpg";  /* Need to be local (in assets forlder) */
-$background-image : "/assets/panel.jpg"; /*Need to be local (in assets forlder)*/
+$avatar-image                     : "/assets/profile.jpg";  /* Need to be local (in assets folder) */
+$background-image                 : "/assets/panel.jpg"; /*Need to be local (in assets folder)*/
 /* --> Colors */
 $panel-text-color                 : white;
 $panel-summary-color              : white;
@@ -62,7 +62,7 @@ $panel-socialicon-size            : 36px;
 $panel-nav-text-size              : 30px;
 $panel-nav-text-size-hover        : $panel-nav-text-size;
 $panel-nav-text-marginbtm-size    : 8px;
-$panel-avatar-size                : 250px;
+$panel-avatar-size                : 180px;
 $content-nav-height-to-remove   : 730px; // $screen-sm-min + 30 (30+/- if custom category)
 /*#######################*/
 /*#       CONTENT       #*/
@@ -98,7 +98,7 @@ $content-pdf-text-size            : $content-post-text-size;
 /*#######################*/
 $footer-background-color          : black;
 $footer-text-color                : grey;
-$footer-link-color                : $link-color;
+$footer-link-color                : $link-color-hover;
 $footer-link-hover-color          : $light-color;
 
 
