@@ -10,6 +10,8 @@ categories: experiences
 
 I have tutored in the following workshops.
 
+* 2019
+  + "_Spatial Conservation Prioritization: Concepts, Methods and Applications_" coordinated by Silvia Carvalho, Virgilio Hermoso, and Jeffrey Hanson at CIBIO/InBIO, Universidade do Porto, Vairão, Portugal.
 * 2017
 	+ "_Use of Machine Learning in Conservation, Moving beyond just Maxent and SDMs_" coordinated by Falk Huettmann at the 28th International Congress of Conservation Biology, Cartagena, Colombia.
 * 2015
