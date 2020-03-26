@@ -5,9 +5,13 @@ date: 2015-11-22 00:00:01
 categories: publications
 ---
 
+### 2020
+
+* [Hanson, JO, Rhodes JR, Butchart SHM, Buchanan GM, Rondinini C, Ficetola GF & Fuller RA (2020) Global conservation of species' niches. _Nature_, **in press**: https://doi.org/10.1038/s41586-020-2138-7.](https://doi.org/10.1038/s41586-020-2138-7)
+
 ### 2019
 
-* [Ambrose L, **Hanson JO**, Riginos C, Xu W, Fordyce S, Cooper RD, Beebe NW (in press) Population genetics of _Anopheles koliensis_ through Papua New Guinea: New cryptic species and landscape topography effects on genetic connectivity. _Ecology & Evolution_, available at: https://doi.org/10.1002/ece3.5792.](https://doi.org/10.1002/ece3.5792)
+* [Ambrose L, **Hanson JO**, Riginos C, Xu W, Fordyce S, Cooper RD & Beebe NW (2019) Population genetics of _Anopheles koliensis_ through Papua New Guinea: New cryptic species and landscape topography effects on genetic connectivity. _Ecology & Evolution_, **9**: 13375--13388.](https://doi.org/10.1002/ece3.5792)
 
 * [**Hanson JO**,  Schuster R, Strimas-Mackey M & Bennett JR (2019) Optimality in prioritizing conservation projects. _Methods in Ecology & Evolution_, 10: 1655--1663.](https://doi.org/10.1111/2041-210X.13264)
 
