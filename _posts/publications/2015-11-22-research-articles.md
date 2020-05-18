@@ -7,7 +7,7 @@ categories: publications
 
 ### 2020
 
-* [Hanson, JO, Rhodes JR, Butchart SHM, Buchanan GM, Rondinini C, Ficetola GF & Fuller RA (2020) Global conservation of species' niches. _Nature_, **in press**: https://doi.org/10.1038/s41586-020-2138-7.](https://doi.org/10.1038/s41586-020-2138-7)
+* [Hanson JO, Rhodes JR, Butchart SHM, Buchanan GM, Rondinini C, Ficetola GF & Fuller RA (2020) Global conservation of species' niches. _Nature_, 580: 232--234.](https://doi.org/10.1038/s41586-020-2138-7)
 
 ### 2019
 
