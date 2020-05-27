@@ -9,14 +9,15 @@ categories: publications
 
 * [**Hanson JO**, Rhodes JR, Butchart SHM, Buchanan GM, Rondinini C, Ficetola GF & Fuller RA (2020) Global conservation of species' niches. _Nature_, 580: 232--234.](https://doi.org/10.1038/s41586-020-2138-7)
 
+* [Schuster R, **Hanson JO**, Strimas-Mackey M & Bennett JR (2020) Exact integer linear programming solvers outperform simulated annealing for solving conservation planning problems. _PeerJ_, 8: e9258.](https://doi.org/10.7717/peerj.9258)
+
 ### 2019
-
-* [Ambrose L, **Hanson JO**, Riginos C, Xu W, Fordyce S, Cooper RD & Beebe NW (2019) Population genetics of _Anopheles koliensis_ through Papua New Guinea: New cryptic species and landscape topography effects on genetic connectivity. _Ecology & Evolution_, **9**: 13375--13388.](https://doi.org/10.1002/ece3.5792)
-
-* [**Hanson JO**,  Schuster R, Strimas-Mackey M & Bennett JR (2019) Optimality in prioritizing conservation projects. _Methods in Ecology & Evolution_, 10: 1655--1663.](https://doi.org/10.1111/2041-210X.13264)
 
 * [**Hanson JO**, Fuller RA & Rhodes JR (2019) Conventional methods for enhancing connectivity in conservation planning do not always maintain gene flow. _Journal of Applied Ecology_, 56: 913--922.](https://doi.org/10.1111/1365-2664.13315)
 
+* [**Hanson JO**,  Schuster R, Strimas-Mackey M & Bennett JR (2019) Optimality in prioritizing conservation projects. _Methods in Ecology & Evolution_, 10: 1655--1663.](https://doi.org/10.1111/2041-210X.13264)
+
+* [Ambrose L, **Hanson JO**, Riginos C, Xu W, Fordyce S, Cooper RD & Beebe NW (2019) Population genetics of _Anopheles koliensis_ through Papua New Guinea: New cryptic species and landscape topography effects on genetic connectivity. _Ecology & Evolution_, 9: 13375--13388.](https://doi.org/10.1002/ece3.5792)
 
 ### 2018
 
