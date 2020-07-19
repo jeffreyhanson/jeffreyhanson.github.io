@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Popular science articles"
+title: "Non-peer reviewed publications"
 date: 2015-11-22 00:00:00
 categories: publications
 ---
 
 ### 2020
 
-* [**Hanson, JO** (2020) Conserving species' niches. _Nature Ecology and Evolution Community Blog_, https://natureecoevocommunity.nature.com/users/367938-jeffrey-hanson/posts/63979-conserving-species-niches.](https://natureecoevocommunity.nature.com/users/367938-jeffrey-hanson/posts/63979-conserving-species-niches)
+* [**Hanson, JO** (2020) Conserving species' niches. _Nature Ecology & Evolution Community_, https://natureecoevocommunity.nature.com/users/367938-jeffrey-hanson/posts/63979-conserving-species-niches.](https://natureecoevocommunity.nature.com/users/367938-jeffrey-hanson/posts/63979-conserving-species-niches)
 
 ### 2015
 
