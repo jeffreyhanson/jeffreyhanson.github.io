@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Research articles"
+title: "Journal articles"
 date: 2015-11-22 00:00:01
 categories: publications
 ---
