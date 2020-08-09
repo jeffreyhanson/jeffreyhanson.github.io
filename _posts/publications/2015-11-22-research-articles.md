@@ -7,9 +7,11 @@ categories: publications
 
 ### 2020
 
-* [**Hanson JO**, Marques A, Veríssimo A, Camacho‐Sanchez M, Velo‐Antón G, Martínez‐Solano Í & Carvalho SB (2020) Conservation planning for adaptive and neutral evolutionary processes. _Journal of Applied Ecology_, In press: DOI:10.1111/1365-2664.13718.](https://doi.org/10.1111/1365-2664.13718)
-
 * [**Hanson JO**, Rhodes JR, Butchart SHM, Buchanan GM, Rondinini C, Ficetola GF & Fuller RA (2020) Global conservation of species' niches. _Nature_, 580: 232--234.](https://doi.org/10.1038/s41586-020-2138-7)
+
+* [**Hanson JO**, Veríssimo A, Velo‐Antón G, Marques A, Camacho‐Sanchez M, Martínez‐Solano Í, Gonçalves H, Sequeira F, Possingham HP & Carvalho SB (2020) Evaluating surrogates of genetic diversity for conservation planning. _Conservation Biology_, In press: DOI:10.1111/cobi.13602.](https://doi.org/10.1111/cobi.13602)
+
+* [**Hanson JO**, Marques A, Veríssimo A, Camacho‐Sanchez M, Velo‐Antón G, Martínez‐Solano Í & Carvalho SB (2020) Conservation planning for adaptive and neutral evolutionary processes. _Journal of Applied Ecology_, In press: DOI:10.1111/1365-2664.13718.](https://doi.org/10.1111/1365-2664.13718)
 
 * [Schuster R, **Hanson JO**, Strimas-Mackey M & Bennett JR (2020) Exact integer linear programming solvers outperform simulated annealing for solving conservation planning problems. _PeerJ_, 8: e9258.](https://doi.org/10.7717/peerj.9258)
 
