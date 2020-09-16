@@ -13,6 +13,8 @@ categories: publications
 
 * [**Hanson JO**, Marques A, Veríssimo A, Camacho‐Sanchez M, Velo‐Antón G, Martínez‐Solano Í & Carvalho SB (2020) Conservation planning for adaptive and neutral evolutionary processes. _Journal of Applied Ecology_, In press: DOI:10.1111/1365-2664.13718.](https://doi.org/10.1111/1365-2664.13718)
 
+* [Camacho‐Sanchez M, Velo‐Antón G, **Hanson JO**, Veríssimo A, Martínez‐Solano Í, Marques A, Moritz C, Carvalho SB (2020) Comparative assessment of range‐wide patterns of genetic diversity and structure with SNPs and microsatellites: A case study with Iberian amphibians. _Ecology & Evolution_, In press: DOI:10.1002/ece3.6670.](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.6670)
+
 * [Schuster R, **Hanson JO**, Strimas-Mackey M & Bennett JR (2020) Exact integer linear programming solvers outperform simulated annealing for solving conservation planning problems. _PeerJ_, 8: e9258.](https://doi.org/10.7717/peerj.9258)
 
 ### 2019
