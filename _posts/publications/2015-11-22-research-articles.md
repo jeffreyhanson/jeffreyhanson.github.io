@@ -5,6 +5,10 @@ date: 2015-11-22 00:00:01
 categories: publications
 ---
 
+### 2021
+
+* [Morelli F, Benedetti Y, **Hanson JO**, Fuller RA (2021) Global distribution and conservation of avian diet specialization. _Conservation Letters_, In press: DOI:10.1111/conl.12795.](https://doi.org/10.1111/conl.12795)
+
 ### 2020
 
 * [**Hanson JO**, Rhodes JR, Butchart SHM, Buchanan GM, Rondinini C, Ficetola GF & Fuller RA (2020) Global conservation of species' niches. _Nature_, 580: 232--234.](https://doi.org/10.1038/s41586-020-2138-7)
