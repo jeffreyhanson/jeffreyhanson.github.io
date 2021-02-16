@@ -7,7 +7,7 @@ categories: publications
 
 ### 2021
 
-* [Morelli F, Benedetti Y, **Hanson JO**, Fuller RA (2021) Global distribution and conservation of avian diet specialization. _Conservation Letters_, In press: DOI:10.1111/conl.12795.](https://doi.org/10.1111/conl.12795)
+* [Morelli F, Benedetti Y, **Hanson JO**, Fuller RA (2021) Global distribution and conservation of avian diet specialization. _Conservation Letters_, In press: DOI:10.1111/conl.12795.](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12795)
 
 ### 2020
 
