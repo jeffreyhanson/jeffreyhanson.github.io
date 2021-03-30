@@ -7,13 +7,13 @@ categories: publications
 
 ### 2021
 
-* [Morelli F, Benedetti Y, **Hanson JO**, Fuller RA (2021) Global distribution and conservation of avian diet specialization. _Conservation Letters_, In press: DOI:10.1111/conl.12795.](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12795)
+* [**Hanson JO**, Veríssimo A, Velo‐Antón G, Marques A, Camacho‐Sanchez M, Martínez‐Solano Í, Gonçalves H, Sequeira F, Possingham HP & Carvalho SB (2020) Evaluating surrogates of genetic diversity for conservation planning. _Conservation Biology_, 35: 634--642.](https://doi.org/10.1111/cobi.13602)
+
+* [Morelli F, Benedetti Y, **Hanson JO**, Fuller RA (2021) Global distribution and conservation of avian diet specialization. _Conservation Letters_, In press: DOI:10.1111/conl.12795.](https://doi.org/10.1111/conl.12795)
 
 ### 2020
 
 * [**Hanson JO**, Rhodes JR, Butchart SHM, Buchanan GM, Rondinini C, Ficetola GF & Fuller RA (2020) Global conservation of species' niches. _Nature_, 580: 232--234.](https://doi.org/10.1038/s41586-020-2138-7)
-
-* [**Hanson JO**, Veríssimo A, Velo‐Antón G, Marques A, Camacho‐Sanchez M, Martínez‐Solano Í, Gonçalves H, Sequeira F, Possingham HP & Carvalho SB (2020) Evaluating surrogates of genetic diversity for conservation planning. _Conservation Biology_, In press: DOI:10.1111/cobi.13602.](https://doi.org/10.1111/cobi.13602)
 
 * [**Hanson JO**, Marques A, Veríssimo A, Camacho‐Sanchez M, Velo‐Antón G, Martínez‐Solano Í & Carvalho SB (2020) Conservation planning for adaptive and neutral evolutionary processes. _Journal of Applied Ecology_, 57: 2159--2169.](https://doi.org/10.1111/1365-2664.13718)
 
