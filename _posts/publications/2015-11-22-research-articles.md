@@ -11,6 +11,8 @@ categories: publications
 
 * [Morelli F, Benedetti Y, **Hanson JO**, Fuller RA (2021) Global distribution and conservation of avian diet specialization. _Conservation Letters_, In press: DOI:10.1111/conl.12795.](https://doi.org/10.1111/conl.12795)
 
+* [Naia M, Tarroso P, Sow AS, Liz AV, Gonçalves DV, Martínez‐Freiría F, Santarém F, Yusefi GH, Velo‐Antón G, Avella I, **Hanson JO**, Khalatbari L, Ferreira da Silva MJ, Camacho‐Sanchez M, Boratyński Z, Carvalho SB & Brito JC (2021) Potential negative effects of the Green Wall on Sahel's biodiversity. _Conservation Biology_. In press: DOI:10.1111/cobi.13755.](https://doi.org/10.1111/cobi.13755)
+
 ### 2020
 
 * [**Hanson JO**, Rhodes JR, Butchart SHM, Buchanan GM, Rondinini C, Ficetola GF & Fuller RA (2020) Global conservation of species' niches. _Nature_, 580: 232--234.](https://doi.org/10.1038/s41586-020-2138-7)
