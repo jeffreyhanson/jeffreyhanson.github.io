@@ -7,9 +7,11 @@ categories: publications
 
 ### 2021
 
-* [**Hanson JO**, Veríssimo A, Velo‐Antón G, Marques A, Camacho‐Sanchez M, Martínez‐Solano Í, Gonçalves H, Sequeira F, Possingham HP & Carvalho SB (2020) Evaluating surrogates of genetic diversity for conservation planning. _Conservation Biology_, 35: 634--642.](https://doi.org/10.1111/cobi.13602)
+* [**Hanson JO**, Veríssimo A, Velo‐Antón G, Marques A, Camacho‐Sanchez M, Martínez‐Solano Í, Gonçalves H, Sequeira F, Possingham HP & Carvalho SB (2021) Evaluating surrogates of genetic diversity for conservation planning. _Conservation Biology_, 35: 634--642.](https://doi.org/10.1111/cobi.13602)
 
-* [Morelli F, Benedetti Y, **Hanson JO**, Fuller RA (2021) Global distribution and conservation of avian diet specialization. _Conservation Letters_, In press: DOI:10.1111/conl.12795.](https://doi.org/10.1111/conl.12795)
+* [Jung M, Arnell A, de Lamo X, García-Rangel S, Lewis M, Mark J, Merow C, Miles L, Ondo I, Pironon S, Ravilious C, Rivers M, Schepashenko D, Tallowin O, van Soesbergen A, Govaerts R, Boyle BL, Enquist BJ, Feng X, Gallagher R, Maitner B, Meiri S, Mulligan M, Ofer G, Roll U, **Hanson JO**, Jetz W, Di Marco M, McGowan J, Rinnan DS, Sachs JD, Lesiv M, Adams VM, Andrew SC, Burger JR, Hannah L, Marquet PA, McCarthy JK, Morueta-Holme N, Newman EA, Park DS, Roehrdanz PR, Svenning J-C, Violle C, Wieringa JJ, Wynne G, Fritz S, Strassburg BBN, Obersteiner M, Kapos V, Burgess N, Schmidt-Traub G & Visconti P (2021) Areas of global importance for conserving terrestrial biodiversity, carbon and water. _Nature Ecology & Evolution_, In press: DOI:10.1038/s41559-021-01528-7.](https://doi.org/10.1038/s41559-021-01528-7)
+
+* [Morelli F, Benedetti Y, **Hanson JO**, Fuller RA (2021) Global distribution and conservation of avian diet specialization. _Conservation Letters_, 14: e12795.](https://doi.org/10.1111/conl.12795)
 
 * [Naia M, Tarroso P, Sow AS, Liz AV, Gonçalves DV, Martínez‐Freiría F, Santarém F, Yusefi GH, Velo‐Antón G, Avella I, **Hanson JO**, Khalatbari L, Ferreira da Silva MJ, Camacho‐Sanchez M, Boratyński Z, Carvalho SB & Brito JC (2021) Potential negative effects of the Green Wall on Sahel's biodiversity. _Conservation Biology_. In press: DOI:10.1111/cobi.13755.](https://doi.org/10.1111/cobi.13755)
 
