@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2021.8.19)  25 AUG 2021 16:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021) (preloaded format=pdflatex 2021.10.29)  5 DEC 2021 08:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **jeffrey-hanson-cv.tex
 (./jeffrey-hanson-cv.tex
 LaTeX2e <2021-06-01> patch level 1
-L3 programming layer <2021-07-12>
+L3 programming layer <2021-10-18>
 (/home/jeff/.TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
 (/home/jeff/.TinyTeX/texmf-dist/tex/latex/base/size12.clo
@@ -463,17 +463,13 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
 (/home/jeff/.TinyTeX/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2021/07/22 3.63 The Babel package
-
-(/home/jeff/.TinyTeX/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2021/07/22 3.63 Babel common definitions
+Package: babel 2021/10/19 3.65 The Babel package
 \babel@savecnt=\count313
 \U@D=\dimen184
 \l@unhyphenated=\language3
 
 (/home/jeff/.TinyTeX/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
-)
 \bbl@dirlevel=\count314
 
 (/home/jeff/.TinyTeX/texmf-dist/tex/generic/babel-english/english.ldf
@@ -555,7 +551,7 @@ LaTeX Font Info:    Trying to load font information for T1+lmr on input line 4.
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 (/home/jeff/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count327
 \l__pdf_internal_box=\box62
 )
@@ -746,19 +742,19 @@ Package rerunfilecheck Info: File `jeffrey-hanson-cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 13245 strings out of 480502
- 197819 string characters out of 5899348
- 546043 words of memory out of 5000000
- 30670 multiletter control sequences out of 15000+600000
+ 13246 strings out of 480539
+ 197725 string characters out of 5902739
+ 546621 words of memory out of 5000000
+ 30639 multiletter control sequences out of 15000+600000
  427810 words of font info for 51 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 65i,5n,69p,840b,520s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 65i,5n,69p,813b,520s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/home/jeff/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/home/jeff/.Ti
 nyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</home/jeff/.TinyTeX/texmf-dist/f
 onts/type1/public/lm/lmbx12.pfb></home/jeff/.TinyTeX/texmf-dist/fonts/type1/pub
 lic/lm/lmr12.pfb></home/jeff/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmri12.p
 fb></home/jeff/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on jeffrey-hanson-cv.pdf (6 pages, 125607 bytes).
+Output written on jeffrey-hanson-cv.pdf (6 pages, 125578 bytes).
 PDF statistics:
  73 PDF objects out of 1000 (max. 8388607)
  51 compressed objects within 1 object stream
