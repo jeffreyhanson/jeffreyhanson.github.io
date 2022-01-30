@@ -5,6 +5,10 @@ date: 2015-11-22 00:00:01
 categories: publications
 ---
 
+### 2022
+
+* [Marques AJD, **Hanson JO**, Camacho-Sanchez M, Martínez‐Solano Í, Moritz C, Tarroso P, Velo‐Antón G, Veríssimo A & Carvalho SB (2022) Range-wide genomic scans and tests for selection identify non-neutral spatial patterns of genetic variation in a non-model amphibian species (_Pelobates cultripes_). _Conservation Genetics_, In press: DOI:10.1007/s10592-021-01425-3.](https://doi.org/10.1007/s10592-021-01425-3)
+
 ### 2021
 
 * [**Hanson JO**, Veríssimo A, Velo‐Antón G, Marques A, Camacho‐Sanchez M, Martínez‐Solano Í, Gonçalves H, Sequeira F, Possingham HP & Carvalho SB (2021) Evaluating surrogates of genetic diversity for conservation planning. _Conservation Biology_, 35: 634--642.](https://doi.org/10.1111/cobi.13602)
