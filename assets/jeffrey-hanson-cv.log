@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.28)  16 JUL 2022 13:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.28)  4 SEP 2022 17:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -623,38 +623,40 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {/home/jeff/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./envelope-o.png> <./globe.png>]
-Overfull \hbox (8.16339pt too wide) in paragraph at lines 59--60
+Overfull \hbox (8.16339pt too wide) in paragraph at lines 61--62
    [] \T1/lmr/bx/n/12 Han-son JO\T1/lmr/m/n/12 , Verís-simo A, Velo-Antón G, Mar-ques A, Camacho-Sanchez M, Martínez-
  []
 
 
-Overfull \hbox (8.16339pt too wide) in paragraph at lines 69--70
+Overfull \hbox (8.16339pt too wide) in paragraph at lines 71--72
    [] \T1/lmr/bx/n/12 Han-son JO\T1/lmr/m/n/12 , Mar-ques A, Verís-simo A, Camacho-Sanchez M, Velo-Antón G, Martínez-
  []
 
 [2
 
-] [3] [4] [5]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 199.
+] [3] [4] [5
+
+]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 205.
  (/home/jeff/.TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [6] (./jeffrey-hanson-cv.aux)
+) [6] [7] (./jeffrey-hanson-cv.aux)
 Package rerunfilecheck Info: File `jeffrey-hanson-cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 13968 strings out of 479997
- 223642 string characters out of 5888336
+ 13969 strings out of 479997
+ 223648 string characters out of 5888336
  554565 words of memory out of 5000000
  31895 multiletter control sequences out of 15000+600000
  493639 words of font info for 52 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  77i,5n,80p,813b,629s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/home/jeff/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/home/jeff/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</home/jeff/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></home/jeff/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb></home/jeff/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmri12.pfb></home/jeff/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on jeffrey-hanson-cv.pdf (6 pages, 126261 bytes).
+Output written on jeffrey-hanson-cv.pdf (7 pages, 127015 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
+ 79 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
+ 8 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
