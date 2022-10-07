@@ -8,8 +8,12 @@ categories: publications
 ### 2022
 
 * [**Hanson JO**, Vincent J, Schuster R, Fahrig L, Brennan A, Martin AE, Hughes JS, Pither R, and Bennett JR (2022) A comparison of approaches for including connectivity in systematic conservation planning. _Journal of Applied Ecology_, 59: 2507--2519.](https://doi.org/10.1111/1365-2664.14251)
+
 * [Carter ZT, **Hanson JO**, Perry GLW, and Russell JC (2022) Incorporating management action suitability in conservation plans. _Journal of Applied Ecology_, 59: 2581--2592.](http://doi.org/10.1111/1365-2664.14258)
+
 * [Marques AJD, **Hanson JO**, Camacho-Sanchez M, Martínez‐Solano Í, Moritz C, Tarroso P, Velo‐Antón G, Veríssimo A & Carvalho SB (2022) Range-wide genomic scans and tests for selection identify non-neutral spatial patterns of genetic variation in a non-model amphibian species (_Pelobates cultripes_). _Conservation Genetics_, 23: 387--400.](https://doi.org/10.1007/s10592-021-01425-3)
+
+* [Nielsen ES, **Hanson JO**, Carvalho SB , Beger M, Henriques R, Kershaw F, von der Heyden S (2022) Molecular ecology meets systematic conservation planning. _Trends in Ecology & Evolution_, In press: DOI:10.1016/j.tree.2022.09.006.](https://doi.org/10.1016/j.tree.2022.09.006)
 
 ### 2021
 
