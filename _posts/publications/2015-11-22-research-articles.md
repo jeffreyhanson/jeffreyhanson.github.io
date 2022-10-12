@@ -7,6 +7,8 @@ categories: publications
 
 ### 2022
 
+* [**Hanson JO**, McCune JL, Chadès I, Proctor CA, Hudgins EJ, and Bennett JR (2022) Optimizing ecological surveys for conservation. _Journal of Applied Ecology_, In press: DOI:10.1111/1365-2664.14309](https://doi.org/10.1111/1365-2664.14309)
+
 * [**Hanson JO**, Vincent J, Schuster R, Fahrig L, Brennan A, Martin AE, Hughes JS, Pither R, and Bennett JR (2022) A comparison of approaches for including connectivity in systematic conservation planning. _Journal of Applied Ecology_, 59: 2507--2519.](https://doi.org/10.1111/1365-2664.14251)
 
 * [Carter ZT, **Hanson JO**, Perry GLW, and Russell JC (2022) Incorporating management action suitability in conservation plans. _Journal of Applied Ecology_, 59: 2581--2592.](http://doi.org/10.1111/1365-2664.14258)
