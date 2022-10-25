@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.27)  13 OCT 2022 09:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.22)  26 OCT 2022 08:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **jeffrey-hanson-cv.tex
 (./jeffrey-hanson-cv.tex
 LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-08-30> (/home/jeff/.TinyTeX/texmf-dist/tex/latex/base/article.cls
+L3 programming layer <2022-09-28> (/home/jeff/.TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (/home/jeff/.TinyTeX/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
@@ -261,8 +261,8 @@ Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (/home/jeff/.TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/home/jeff/.TinyTeX/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
@@ -417,7 +417,7 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2022/09/17 3.80 The Babel package
+Package: babel 2022/10/04 3.81 The Babel package
 \babel@savecnt=\count317
 \U@D=\dimen186
 \l@unhyphenated=\language3
@@ -496,7 +496,7 @@ LaTeX Font Info:    Trying to load font information for T1+lmr on input line 4.
  (/home/jeff/.TinyTeX/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count331
 \l__pdf_internal_box=\box63
 ) (./jeffrey-hanson-cv.aux)
@@ -625,21 +625,21 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {/home/jeff/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./envelope-o.png> <./globe.png>]
-Overfull \hbox (8.16339pt too wide) in paragraph at lines 65--66
+Overfull \hbox (8.16339pt too wide) in paragraph at lines 67--68
    [] \T1/lmr/bx/n/12 Han-son JO\T1/lmr/m/n/12 , Verís-simo A, Velo-Antón G, Mar-ques A, Camacho-Sanchez M, Martínez-
  []
 
 [2
 
 ]
-Overfull \hbox (8.16339pt too wide) in paragraph at lines 75--76
+Overfull \hbox (8.16339pt too wide) in paragraph at lines 77--78
    [] \T1/lmr/bx/n/12 Han-son JO\T1/lmr/m/n/12 , Mar-ques A, Verís-simo A, Camacho-Sanchez M, Velo-Antón G, Martínez-
  []
 
 [3] [4] [5
 
 ]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 211.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 213.
  (/home/jeff/.TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [6] [7] (./jeffrey-hanson-cv.aux)
@@ -647,15 +647,15 @@ Package rerunfilecheck Info: File `jeffrey-hanson-cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 13995 strings out of 477035
- 224237 string characters out of 5828284
- 598798 words of memory out of 5000000
- 34880 multiletter control sequences out of 15000+600000
+ 13992 strings out of 477031
+ 224204 string characters out of 5828190
+ 598465 words of memory out of 5000000
+ 34881 multiletter control sequences out of 15000+600000
  493639 words of font info for 52 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  77i,5n,80p,813b,629s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/home/jeff/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/home/jeff/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</home/jeff/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></home/jeff/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb></home/jeff/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmri12.pfb></home/jeff/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on jeffrey-hanson-cv.pdf (7 pages, 127671 bytes).
+Output written on jeffrey-hanson-cv.pdf (7 pages, 127816 bytes).
 PDF statistics:
  81 PDF objects out of 1000 (max. 8388607)
  58 compressed objects within 1 object stream
