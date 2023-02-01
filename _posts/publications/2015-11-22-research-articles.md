@@ -5,9 +5,13 @@ date: 2015-11-22 00:00:01
 categories: publications
 ---
 
+### 2023
+
+* [Chowdhury S, Zalucki MP, **Hanson JO**, Tiatragul S, Green D, Watson JEM, and Fuller RA (2023) Three quarters of insects are insufficiently covered by protected areas. _One Earth_, 6: 1--8.](https://doi.org/10.1016/j.oneear.2022.12.003)
+
 ### 2022
 
-* [**Hanson JO**, McCune JL, Chadès I, Proctor CA, Hudgins EJ, and Bennett JR (2022) Optimizing ecological surveys for conservation. _Journal of Applied Ecology_, In press: DOI:10.1111/1365-2664.14309](https://doi.org/10.1111/1365-2664.14309)
+* [**Hanson JO**, McCune JL, Chadès I, Proctor CA, Hudgins EJ, and Bennett JR (2022) Optimizing ecological surveys for conservation. _Journal of Applied Ecology_, 60: 41--51](https://doi.org/10.1111/1365-2664.14309)
 
 * [**Hanson JO**, Vincent J, Schuster R, Fahrig L, Brennan A, Martin AE, Hughes JS, Pither R, and Bennett JR (2022) A comparison of approaches for including connectivity in systematic conservation planning. _Journal of Applied Ecology_, 59: 2507--2519.](https://doi.org/10.1111/1365-2664.14251)
 
@@ -17,7 +21,7 @@ categories: publications
 
 * [Marques AJD, **Hanson JO**, Camacho-Sanchez M, Martínez‐Solano Í, Moritz C, Tarroso P, Velo‐Antón G, Veríssimo A & Carvalho SB (2022) Range-wide genomic scans and tests for selection identify non-neutral spatial patterns of genetic variation in a non-model amphibian species (_Pelobates cultripes_). _Conservation Genetics_, 23: 387--400.](https://doi.org/10.1007/s10592-021-01425-3)
 
-* [Nielsen ES, **Hanson JO**, Carvalho SB , Beger M, Henriques R, Kershaw F, von der Heyden S (2022) Molecular ecology meets systematic conservation planning. _Trends in Ecology & Evolution_, In press: DOI:10.1016/j.tree.2022.09.006.](https://doi.org/10.1016/j.tree.2022.09.006)
+* [Nielsen ES, **Hanson JO**, Carvalho SB , Beger M, Henriques R, Kershaw F, von der Heyden S (2022) Molecular ecology meets systematic conservation planning. _Trends in Ecology & Evolution_, 38: 143--155.](https://doi.org/10.1016/j.tree.2022.09.006)
 
 ### 2021
 
