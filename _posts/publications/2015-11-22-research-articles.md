@@ -8,7 +8,7 @@ categories: publications
 ### 2023
 
 * [Chowdhury S, Zalucki MP, **Hanson JO**, Tiatragul S, Green D, Watson JEM, and Fuller RA (2023) Three quarters of insects are insufficiently covered by protected areas. _One Earth_, 6: 1--8.](https://doi.org/10.1016/j.oneear.2022.12.003)
-* [Schuster R, Buxton R, **Hanson JO**, Binley AD, Pittman J, Tulloch V, La Sorte FA, Roehrdanz PR, Verburg PH, Rodewald AD, Wilson S, Possingham HP, Bennett, JR (2022) Protected area planning to conserve biodiversity in an uncertain future. _Conservation Biology_, In press: DOI:10.1111/cobi.14048.](https://doi.org/10.1111/cobi.14048)
+* [Schuster R, Buxton R, **Hanson JO**, Binley AD, Pittman J, Tulloch V, La Sorte FA, Roehrdanz PR, Verburg PH, Rodewald AD, Wilson S, Possingham HP, and Bennett JR (2022) Protected area planning to conserve biodiversity in an uncertain future. _Conservation Biology_, In press: DOI:10.1111/cobi.14048.](https://doi.org/10.1111/cobi.14048)
 
 ### 2022
 
