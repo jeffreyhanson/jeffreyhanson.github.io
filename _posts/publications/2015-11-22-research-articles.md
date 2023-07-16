@@ -9,7 +9,7 @@ categories: publications
 
 * [Buenafe KCV, Dunn DC, Everett JD, Brito-Morales I, Schoeman DS, **Hanson JO**, Dabalà A, Neubert S, Cannicci S, Kaschner K, and Richardson AJ (2023) A metric-based framework for climate-smart conservation planning. _Ecological Applications_, In press: DOI:10.1002/eap.2852.](https://doi.org/10.1002/eap.2852)
 * [Chowdhury S, Zalucki MP, **Hanson JO**, Tiatragul S, Green D, Watson JEM, and Fuller RA (2023) Three quarters of insects are insufficiently covered by protected areas. _One Earth_, 6: 1--8.](https://doi.org/10.1016/j.oneear.2022.12.003)
-* [Justeau-Allaire D, **Hanson JO**, Lannuzel G, Vismara P, Lorca X and Birnbaum, P (2023) restoptr: an R package for ecological restoration planning. _Restoration Ecology_, In press: DOI:10.1111/rec.13910.](https://doi.org/10.1111/rec.13910)
+* [Justeau-Allaire D, **Hanson JO**, Lannuzel G, Vismara P, Lorca X and Birnbaum, P (2023) restoptr: an R package for ecological restoration planning. _Restoration Ecology_, 31: e13910.](https://doi.org/10.1111/rec.13910)
 * [Schuster R, Buxton R, **Hanson JO**, Binley AD, Pittman J, Tulloch V, La Sorte FA, Roehrdanz PR, Verburg PH, Rodewald AD, Wilson S, Possingham HP, and Bennett JR (2022) Protected area planning to conserve biodiversity in an uncertain future. _Conservation Biology_, In press: DOI:10.1111/cobi.14048.](https://doi.org/10.1111/cobi.14048)
 * [Shen X, Liu M, **Hanson JO**, Wang J, Locke H, Watson JEM, Ellis EC, Li S, and Ma K (2023) Countries' differentiated responsibilities to fulfill area-based conservation targets of the Kunming-Montreal Global Biodiversity Framework. _One Earth_, In press: DOI:10.1016/j.oneear.2023.04.007.](https://doi.org/10.1016/j.oneear.2023.04.007)
 
