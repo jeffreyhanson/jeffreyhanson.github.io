@@ -8,7 +8,7 @@ categories: publications
 ### 2023
 
 * [Buenafe KCV, Dunn DC, Everett JD, Brito-Morales I, Schoeman DS, **Hanson JO**, Dabalà A, Neubert S, Cannicci S, Kaschner K, and Richardson AJ (2023) A metric-based framework for climate-smart conservation planning. _Ecological Applications_, In press: DOI:10.1002/eap.2852.](https://doi.org/10.1002/eap.2852)
-* [Chowdhury S, Fuller RA, Rokonuzzaman M, Alam S, Das P, Siddika A, Ahmed S, Labi MM, Chowdhury SU, Mukul SA, Bohm M, and **Hanson JO** (2023) Insights from citizen science reveal priority areas for conserving biodiversity in Bangladesh. _One Earth_, In press: DOI:10.1016/j.oneear.2023.08.025.
+* [Chowdhury S, Fuller RA, Rokonuzzaman M, Alam S, Das P, Siddika A, Ahmed S, Labi MM, Chowdhury SU, Mukul SA, Bohm M, and **Hanson JO** (2023) Insights from citizen science reveal priority areas for conserving biodiversity in Bangladesh. _One Earth_, In press: DOI:10.1016/j.oneear.2023.08.025.](https://doi.org/10.1016/j.oneear.2023.08.025)
 * [Chowdhury S, Zalucki MP, **Hanson JO**, Tiatragul S, Green D, Watson JEM, and Fuller RA (2023) Three quarters of insects are insufficiently covered by protected areas. _One Earth_, 6: 1--8.](https://doi.org/10.1016/j.oneear.2022.12.003)
 * [Dabalà A, Dahdouh-Guebas F, Dunn DC, Everett JD, Lovelock CE, **Hanson JO**, Buenafe KVC, Neubert S, and Richardson AJ (2023) Priority areas to protect mangroves and maximise ecosystem services. _Nature Communications_, 14: 5863.](https://doi.org/10.1038/s41467-023-41333-3)
 * [Justeau-Allaire D, **Hanson JO**, Lannuzel G, Vismara P, Lorca X and Birnbaum, P (2023) restoptr: an R package for ecological restoration planning. _Restoration Ecology_, 31: e13910.](https://doi.org/10.1111/rec.13910)
