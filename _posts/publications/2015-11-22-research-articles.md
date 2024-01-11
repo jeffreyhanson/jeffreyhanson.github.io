@@ -12,6 +12,7 @@ categories: publications
 
 ### 2023
 
+* [**Hanson JO**, McCune JL, Chadès I, Proctor CA, Hudgins EJ, and Bennett JR (2023) Optimizing ecological surveys for conservation. _Journal of Applied Ecology_, 60: 41--51.](https://doi.org/10.1111/1365-2664.14309)
 * [Buenafe KCV, Dunn DC, Everett JD, Brito-Morales I, Schoeman DS, **Hanson JO**, Dabalà A, Neubert S, Cannicci S, Kaschner K, and Richardson AJ (2023) A metric-based framework for climate-smart conservation planning. _Ecological Applications_, In press: DOI:10.1002/eap.2852.](https://doi.org/10.1002/eap.2852)
 * [Chowdhury S, Fuller RA, Rokonuzzaman M, Alam S, Das P, Siddika A, Ahmed S, Labi MM, Chowdhury SU, Mukul SA, Bohm M, and **Hanson JO** (2023) Insights from citizen science reveal priority areas for conserving biodiversity in Bangladesh. _One Earth_, In press: DOI:10.1016/j.oneear.2023.08.025.](https://doi.org/10.1016/j.oneear.2023.08.025)
 * [Chowdhury S, Zalucki MP, **Hanson JO**, Tiatragul S, Green D, Watson JEM, and Fuller RA (2023) Three quarters of insects are insufficiently covered by protected areas. _One Earth_, 6: 1--8.](https://doi.org/10.1016/j.oneear.2022.12.003)
@@ -21,8 +22,6 @@ categories: publications
 * [Shen X, Liu M, **Hanson JO**, Wang J, Locke H, Watson JEM, Ellis EC, Li S, and Ma K (2023) Countries' differentiated responsibilities to fulfill area-based conservation targets of the Kunming-Montreal Global Biodiversity Framework. _One Earth_, In press: DOI:10.1016/j.oneear.2023.04.007.](https://doi.org/10.1016/j.oneear.2023.04.007)
 
 ### 2022
-
-* [**Hanson JO**, McCune JL, Chadès I, Proctor CA, Hudgins EJ, and Bennett JR (2022) Optimizing ecological surveys for conservation. _Journal of Applied Ecology_, 60: 41--51.](https://doi.org/10.1111/1365-2664.14309)
 
 * [**Hanson JO**, Vincent J, Schuster R, Fahrig L, Brennan A, Martin AE, Hughes JS, Pither R, and Bennett JR (2022) A comparison of approaches for including connectivity in systematic conservation planning. _Journal of Applied Ecology_, 59: 2507--2519.](https://doi.org/10.1111/1365-2664.14251)
 
