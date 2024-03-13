@@ -8,7 +8,7 @@ categories: publications
 ### 2024
 
 * [Fourchault L, Dahdouh-Guebas F, Dunn DC, Everett JD, **Hanson JO**, Buenafe KCV, Neubert S, Dabalà A, Yapa KKAS, Cannicci S, and Richardson AJ (2024) Generating affordable protection of high seas biodiversity through cross-sectoral spatial planning. _One Earth_, 7: 253--264.](https://doi.org/10.1016/j.oneear.2023.12.006)
-* [Hudgins EJ, **Hanson JO**, MacQuarrie CJK, Yemshanov D, Baker CM, Chadès I., Holden MH, McDonald-Madden E, and Bennett JR (2024) Spread management priorities to limit emerald ash borer (_Agrilus planipennis_) impacts on United States street trees. _Conservation Science and Practice_, In press: e13087.](https://doi.org/10.1111/csp2.13087)
+* [Hudgins EJ, **Hanson JO**, MacQuarrie CJK, Yemshanov D, Baker CM, Chadès I., Holden MH, McDonald-Madden E, and Bennett JR (2024) Spread management priorities to limit emerald ash borer (_Agrilus planipennis_) impacts on United States street trees. _Conservation Science and Practice_, 6: e13087.](https://doi.org/10.1111/csp2.13087)
 * [Neugarten RA, Chaplin-Kramer R, Sharp RP, Schuster R, Strimas-Mackey M, Roehrdanz PR, Mulligan M, van Soesbergen A, Hole D, Kennedy CM, Oakleaf JR, Johnson JA, Kiesecker J, Polasky S, **Hanson JO**, and Rodewald AD (2024) Mapping the planet's critical areas for biodiversity and nature's contributions to people. _Nature Communications_, 15: 261.](https://doi.org/10.1038/s41467-023-43832-9)
 
 ### 2023
