@@ -5,7 +5,12 @@ date: 2015-11-22 00:00:01
 categories: publications
 ---
 
+### 2025
+
+* [Binley AD, **Hanson JO**, Robinson OJ, Golet GH, and Bennett JR (2025) Quantifying the value of participatory science data for conservation decision-making. _Journal of Applied Ecology_, In press: DOI:10.1111/1365-2664.14863.](http://doi.org/10.1111/1365-2664.14863)
+
 ### 2024
+
 * [**Hanson JO**, Schuster R, Strimas‐Mackey M, Morrell N, Edwards BPM, Arcese P, Bennett JR, and Possingham HP (2024) Systematic conservation prioritization with the prioritizr R package. _Conservation Biology_, In press: DOI:10.1111/cobi.14376.](https://doi.org/10.1111/cobi.14376)
 * [Bennett JR, Edwards BP, Bergman JN, Binley AD, Buxton RT, Hanna DE, **Hanson JO**, Hudgins EJ, Karimi S, Raymond CV, Robichaud CD, and Rytwinski T (2024) How ignoring detection probability hurts biodiversity conservation. _Frontiers in Ecology and the Environment_, In press: DOI:10.1002/fee.2782.](https://doi.org/10.1002/fee.2782)
 * [Fourchault L, Dahdouh-Guebas F, Dunn DC, Everett JD, **Hanson JO**, Buenafe KCV, Neubert S, Dabalà A, Yapa KKAS, Cannicci S, and Richardson AJ (2024) Generating affordable protection of high seas biodiversity through cross-sectoral spatial planning. _One Earth_, 7: 253--264.](https://doi.org/10.1016/j.oneear.2023.12.006)
@@ -59,7 +64,7 @@ categories: publications
 
 * [**Hanson JO**, Fuller RA & Rhodes JR (2019) Conventional methods for enhancing connectivity in conservation planning do not always maintain gene flow. _Journal of Applied Ecology_, 56: 913--922.](https://doi.org/10.1111/1365-2664.13315)
 
-* [**Hanson JO**,  Schuster R, Strimas-Mackey M & Bennett JR (2019) Optimality in prioritizing conservation projects. _Methods in Ecology & Evolution_, 10: 1655--1663.](https://doi.org/10.1111/2041-210X.13264)
+* [**Hanson JO**, Schuster R, Strimas-Mackey M & Bennett JR (2019) Optimality in prioritizing conservation projects. _Methods in Ecology & Evolution_, 10: 1655--1663.](https://doi.org/10.1111/2041-210X.13264)
 
 * [Ambrose L, **Hanson JO**, Riginos C, Xu W, Fordyce S, Cooper RD & Beebe NW (2019) Population genetics of _Anopheles koliensis_ through Papua New Guinea: New cryptic species and landscape topography effects on genetic connectivity. _Ecology & Evolution_, 9: 13375--13388.](https://doi.org/10.1002/ece3.5792)
 

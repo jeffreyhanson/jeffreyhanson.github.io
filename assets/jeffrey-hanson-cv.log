@@ -1,29 +1,29 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.9.5)  16 SEP 2024 16:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.16)  8 JAN 2025 08:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **jeffrey-hanson-cv.tex
 (./jeffrey-hanson-cv.tex
-LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-08-16>
+LaTeX2e <2024-11-01> patch level 1
+L3 programming layer <2024-11-02>
 (/home/jeff/.TinyTeX/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
 (/home/jeff/.TinyTeX/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count194
-\c@section=\count195
-\c@subsection=\count196
-\c@subsubsection=\count197
-\c@paragraph=\count198
-\c@subparagraph=\count199
-\c@figure=\count266
-\c@table=\count267
+\c@part=\count196
+\c@section=\count197
+\c@subsection=\count198
+\c@subsubsection=\count199
+\c@paragraph=\count266
+\c@subparagraph=\count267
+\c@figure=\count268
+\c@table=\count269
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen141
 ) (./preamble.tex (/home/jeff/.TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2024/05/23 v2.17q AMS math features
+Package: amsmath 2024/11/05 v2.17t AMS math features
 \@mathmargin=\skip51
 
 For additional information on amsmath, use the `?' option.
@@ -39,14 +39,14 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count268
+\inf@bad=\count270
 LaTeX Info: Redefining \frac on input line 233.
-\uproot@=\count269
-\leftroot@=\count270
+\uproot@=\count271
+\leftroot@=\count272
 LaTeX Info: Redefining \overline on input line 398.
 LaTeX Info: Redefining \colon on input line 409.
-\classnum@=\count271
-\DOTSCASE@=\count272
+\classnum@=\count273
+\DOTSCASE@=\count274
 LaTeX Info: Redefining \ldots on input line 495.
 LaTeX Info: Redefining \dots on input line 498.
 LaTeX Info: Redefining \cdots on input line 619.
@@ -59,20 +59,20 @@ LaTeX Info: Redefining \Bigg on input line 724.
 \big@size=\dimen144
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
-\macc@depth=\count273
+\macc@depth=\count275
 LaTeX Info: Redefining \bmod on input line 904.
 LaTeX Info: Redefining \pmod on input line 909.
 LaTeX Info: Redefining \smash on input line 939.
 LaTeX Info: Redefining \relbar on input line 969.
 LaTeX Info: Redefining \Relbar on input line 970.
-\c@MaxMatrixCols=\count274
+\c@MaxMatrixCols=\count276
 \dotsspace@=\muskip17
-\c@parentequation=\count275
-\dspbrk@lvl=\count276
+\c@parentequation=\count277
+\dspbrk@lvl=\count278
 \tag@help=\toks18
-\row@=\count277
-\column@=\count278
-\maxfields@=\count279
+\row@=\count279
+\column@=\count280
+\maxfields@=\count281
 \andhelp@=\toks19
 \eqnshift@=\dimen145
 \alignsep@=\dimen146
@@ -95,7 +95,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count280
+\c@float@type=\count282
 \float@exts=\toks22
 \float@box=\box54
 \@float@everytoks=\toks23
@@ -103,7 +103,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/latex/makecell/makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
  (/home/jeff/.TinyTeX/texmf-dist/tex/latex/tools/array.sty
-Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
+Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
 \col@sep=\dimen151
 \ar@mcellbox=\box56
 \extrarowheight=\dimen152
@@ -113,7 +113,7 @@ Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
 \ar@cellbox=\box57
 )
 \rotheadsize=\dimen153
-\c@nlinenum=\count281
+\c@nlinenum=\count283
 \TeXr@lab=\toks25
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/latex/titlesec/titletoc.sty
 Package: titletoc 2023/10/27 v2.16 TOC entries
@@ -147,8 +147,8 @@ Package tocloft Info: The document has section divisions on input line 51.
 \cftbeforefigskip=\skip79
 \cftfigindent=\skip80
 \cftfignumwidth=\skip81
-\c@lofdepth=\count282
-\c@lotdepth=\count283
+\c@lofdepth=\count284
+\c@lotdepth=\count285
 \cftbeforelottitleskip=\skip82
 \cftafterlottitleskip=\skip83
 \cftbeforetabskip=\skip84
@@ -158,7 +158,7 @@ Package tocloft Info: The document has section divisions on input line 51.
 Package: lineno 2023/05/20 line numbers on paragraphs v5.3
  (/home/jeff/.TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count284
+\etb@tempcnta=\count286
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
  (/home/jeff/.TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
@@ -169,21 +169,21 @@ Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ))
-\linenopenalty=\count285
+\linenopenalty=\count287
 \output=\toks27
-\linenoprevgraf=\count286
+\linenoprevgraf=\count288
 \linenumbersep=\dimen155
 \linenumberwidth=\dimen156
-\c@linenumber=\count287
-\c@pagewiselinenumber=\count288
-\c@LN@truepage=\count289
-\c@internallinenumber=\count290
-\c@internallinenumbers=\count291
+\c@linenumber=\count289
+\c@pagewiselinenumber=\count290
+\c@LN@truepage=\count291
+\c@internallinenumber=\count292
+\c@internallinenumbers=\count293
 \quotelinenumbersep=\dimen157
 \bframerule=\dimen158
 \bframesep=\dimen159
 \bframebox=\box58
-\linenoamsmath@ams@eqpen=\count292
+\linenoamsmath@ams@eqpen=\count294
 LaTeX Info: Redefining \\ on input line 3180.
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
@@ -197,12 +197,12 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen167
 \cmidrulekern=\dimen168
 \defaultaddspace=\dimen169
-\@cmidla=\count293
-\@cmidlb=\count294
+\@cmidla=\count295
+\@cmidlb=\count296
 \@aboverulesep=\dimen170
 \@belowrulesep=\dimen171
-\@thisruleclass=\count295
-\@lastruleclass=\count296
+\@thisruleclass=\count297
+\@lastruleclass=\count298
 \@thisrulewidth=\dimen172
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/latex/subfiles/subfiles.sty
 Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
@@ -215,28 +215,28 @@ Package: blindtext 2012/01/06 V2.0 blindtext-Package
  (/home/jeff/.TinyTeX/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count297
-\c@Blindtext=\count298
-\c@blind@countparstart=\count299
-\blind@countxx=\count300
-\blindtext@numBlindtext=\count301
-\blind@countyy=\count302
-\c@blindlist=\count303
-\c@blindlistlevel=\count304
-\c@blindlist@level=\count305
-\blind@listitem=\count306
-\c@blind@listcount=\count307
-\c@blind@levelcount=\count308
-\blind@mathformula=\count309
-\blind@Mathformula=\count310
-\c@blind@randomcount=\count311
-\c@blind@randommax=\count312
-\c@blind@pangramcount=\count313
-\c@blind@pangrammax=\count314
+\c@blindtext=\count299
+\c@Blindtext=\count300
+\c@blind@countparstart=\count301
+\blind@countxx=\count302
+\blindtext@numBlindtext=\count303
+\blind@countyy=\count304
+\c@blindlist=\count305
+\c@blindlistlevel=\count306
+\c@blindlist@level=\count307
+\blind@listitem=\count308
+\c@blind@listcount=\count309
+\c@blind@levelcount=\count310
+\blind@mathformula=\count311
+\blind@Mathformula=\count312
+\c@blind@randomcount=\count313
+\c@blind@randommax=\count314
+\c@blind@pangramcount=\count315
+\c@blind@pangrammax=\count316
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
  (/home/jeff/.TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
  (/home/jeff/.TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
@@ -253,14 +253,14 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip87
 \bibsep=\skip88
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count315
+\c@NAT@ctr=\count317
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2024-07-10 v7.01j Hypertext links for LaTeX
+Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
  (/home/jeff/.TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
+Package: iftex 2024/12/12 v1.0g TeX engine tests
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
@@ -282,23 +282,23 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count316
+\c@section@level=\count318
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
 \@linkdim=\dimen175
-\Hy@linkcounter=\count317
-\Hy@pagecounter=\count318
+\Hy@linkcounter=\count319
+\Hy@pagecounter=\count320
  (/home/jeff/.TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2024-07-10 v7.01j Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count319
+\Hy@SavedSpaceFactor=\count321
  (/home/jeff/.TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2024-07-10 v7.01j Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
@@ -309,7 +309,7 @@ Package hyperref Info: Plain pages OFF on input line 4172.
 Package hyperref Info: Backreferencing OFF on input line 4177.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4424.
-\c@Hy@tempcnt=\count320
+\c@Hy@tempcnt=\count322
 LaTeX Info: Redefining \url on input line 4763.
 \XeTeXLinkMargin=\dimen176
  (/home/jeff/.TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
@@ -317,7 +317,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (/home/jeff/.TinyTeX/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count321
+\Fld@menulength=\count323
 \Field@Width=\dimen177
 \Fld@charsize=\dimen178
 Package hyperref Info: Hyper figures OFF on input line 6042.
@@ -331,19 +331,19 @@ Package hyperref Info: PDF/A mode OFF on input line 6072.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count322
-\c@Item=\count323
-\c@Hfootnote=\count324
+\Hy@abspage=\count324
+\c@Item=\count325
+\c@Hfootnote=\count326
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (/home/jeff/.TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2024-07-10 v7.01j Hyperref driver for pdfTeX
+File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
  (/home/jeff/.TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count325
-\c@bookmark@seq@number=\count326
+\Fld@listcount=\count327
+\c@bookmark@seq@number=\count328
  (/home/jeff/.TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
  (/home/jeff/.TinyTeX/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
@@ -371,7 +371,7 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 \UL@skip=\skip92
 \UL@hook=\toks29
 \UL@height=\dimen184
-\UL@pe=\count327
+\UL@pe=\count329
 \UL@pixel=\dimen185
 \ULC@box=\box62
 Package: ulem 2019/11/18
@@ -417,13 +417,13 @@ Package: inputenc 2024/02/08 v1.3d Input encoding file
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2024/08/29 v24.9 The Babel package
-\babel@savecnt=\count328
+Package: babel 2024/11/30 v24.14 The multilingual framework for pdfLaTeX, LuaLaTeX and XeLaTeX
+\babel@savecnt=\count330
 \U@D=\dimen187
 \l@unhyphenated=\language7
  (/home/jeff/.TinyTeX/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count329
+\bbl@dirlevel=\count331
  (/home/jeff/.TinyTeX/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
@@ -440,9 +440,9 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
  (/home/jeff/.TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count330
-\Gm@cntv=\count331
-\c@Gm@tempcnt=\count332
+\Gm@cnth=\count332
+\Gm@cntv=\count333
+\c@Gm@tempcnt=\count334
 \Gm@bindingoffset=\dimen188
 \Gm@wd@mp=\dimen189
 \Gm@odd@mp=\dimen190
@@ -460,16 +460,16 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@outerparindent=\dimen196
 \enit@toks=\toks33
 \enit@inbox=\box63
-\enit@count@id=\count333
-\enitdp@description=\count334
+\enit@count@id=\count335
+\enitdp@description=\count336
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
-\csq@reset=\count335
-\csq@gtype=\count336
-\csq@glevel=\count337
-\csq@qlevel=\count338
-\csq@maxlvl=\count339
-\csq@tshold=\count340
+\csq@reset=\count337
+\csq@gtype=\count338
+\csq@glevel=\count339
+\csq@qlevel=\count340
+\csq@maxlvl=\count341
+\csq@tshold=\count342
 \csq@ltx@everypar=\toks34
  (/home/jeff/.TinyTeX/texmf-dist/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
@@ -490,7 +490,7 @@ LaTeX Font Info:    Trying to load font information for T1+lmr on input line 4.
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count341
+\l__color_backend_stack_int=\count343
 \l__pdf_internal_box=\box64
 ) (./jeffrey-hanson-cv.aux)
 \openout1 = `jeffrey-hanson-cv.aux'.
@@ -525,7 +525,7 @@ Package grfext Info: Graphics extension search list:
  (/home/jeff/.TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 )) (/home/jeff/.TinyTeX/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2024/01/14 v1.3d Standard LaTeX Color (DPC)
+Package: color 2024/06/23 v1.3e Standard LaTeX Color (DPC)
  (/home/jeff/.TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
@@ -624,14 +624,14 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 [2
 
 ]
-Overfull \hbox (8.16339pt too wide) in paragraph at lines 91--92
+Overfull \hbox (8.16339pt too wide) in paragraph at lines 93--94
    [] \T1/lmr/bx/n/12 Han-son JO\T1/lmr/m/n/12 , Verís-simo A, Velo-Antón G, Mar-ques A, Camacho-Sanchez M, Martínez-
  []
 
 
 
 [3]
-Overfull \hbox (8.16339pt too wide) in paragraph at lines 101--102
+Overfull \hbox (8.16339pt too wide) in paragraph at lines 103--104
    [] \T1/lmr/bx/n/12 Han-son JO\T1/lmr/m/n/12 , Mar-ques A, Verís-simo A, Camacho-Sanchez M, Velo-Antón G, Martínez-
  []
 
@@ -641,9 +641,7 @@ Overfull \hbox (8.16339pt too wide) in paragraph at lines 101--102
 
 [5]
 
-[6
-
-]
+[6]
 
 [7]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 239.
@@ -653,22 +651,22 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 
 [8{/home/jeff/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}] (./jeffrey-hanson-cv.aux)
  ***********
-LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-08-16>
+LaTeX2e <2024-11-01> patch level 1
+L3 programming layer <2024-11-02>
  ***********
 Package rerunfilecheck Info: File `jeffrey-hanson-cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 14019 strings out of 475496
- 221231 string characters out of 5776381
- 1938957 words of memory out of 5000000
- 36423 multiletter control sequences out of 15000+600000
+ 14051 strings out of 475247
+ 221925 string characters out of 5767954
+ 649669 words of memory out of 5000000
+ 36690 multiletter control sequences out of 15000+600000
  582449 words of font info for 60 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  74i,5n,82p,813b,638s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/jeff/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></home/jeff/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb></home/jeff/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmri12.pfb></home/jeff/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on jeffrey-hanson-cv.pdf (8 pages, 133263 bytes).
+Output written on jeffrey-hanson-cv.pdf (8 pages, 133458 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  61 compressed objects within 1 object stream
