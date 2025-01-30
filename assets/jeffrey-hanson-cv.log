@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.16)  8 JAN 2025 08:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.16)  31 JAN 2025 09:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -624,14 +624,14 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 [2
 
 ]
-Overfull \hbox (8.16339pt too wide) in paragraph at lines 93--94
+
+[3]
+Overfull \hbox (8.16339pt too wide) in paragraph at lines 95--96
    [] \T1/lmr/bx/n/12 Han-son JO\T1/lmr/m/n/12 , Verís-simo A, Velo-Antón G, Mar-ques A, Camacho-Sanchez M, Martínez-
  []
 
 
-
-[3]
-Overfull \hbox (8.16339pt too wide) in paragraph at lines 103--104
+Overfull \hbox (8.16339pt too wide) in paragraph at lines 105--106
    [] \T1/lmr/bx/n/12 Han-son JO\T1/lmr/m/n/12 , Mar-ques A, Verís-simo A, Camacho-Sanchez M, Velo-Antón G, Martínez-
  []
 
@@ -644,7 +644,7 @@ Overfull \hbox (8.16339pt too wide) in paragraph at lines 103--104
 [6]
 
 [7]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 239.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 241.
  (/home/jeff/.TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -666,7 +666,7 @@ Here is how much of TeX's memory you used:
  36 hyphenation exceptions out of 8191
  74i,5n,82p,813b,638s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/jeff/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></home/jeff/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb></home/jeff/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmri12.pfb></home/jeff/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on jeffrey-hanson-cv.pdf (8 pages, 133458 bytes).
+Output written on jeffrey-hanson-cv.pdf (8 pages, 134323 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  61 compressed objects within 1 object stream

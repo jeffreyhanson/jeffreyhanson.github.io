@@ -7,11 +7,12 @@ categories: publications
 
 ### 2025
 
+* [**Hanson JO**, Schuster R, Strimas‐Mackey M, Morrell N, Edwards BPM, Arcese P, Bennett JR, and Possingham HP (2025) Systematic conservation prioritization with the prioritizr R package. _Conservation Biology_, 39: e14376.](https://doi.org/10.1111/cobi.14376)
 * [Binley AD, **Hanson JO**, Robinson OJ, Golet GH, and Bennett JR (2025) Quantifying the value of participatory science data for conservation decision-making. _Journal of Applied Ecology_, In press: DOI:10.1111/1365-2664.14863.](http://doi.org/10.1111/1365-2664.14863)
+* [Giakoumi S, Richardson AJ, Doxa A, Moro S, Andrello M, **Hanson JO**, Hermoso V, Mazor T, McGowan J, Kujala H, Law E, Álvarez Romero JG, Magris RA, Gissi E, Arafeh-Dalmau N, Metaxas A, Virtanen EA, Ban NC, Runya RM, Dunn DC, Fraschetti S, Galparsoro I, Smith RJ, Bastardie F, Stelzenmüller V, Possingham HP, Katsanevakis S (2025) Advances in systematic conservation planning to meet global biodiversity goals. _Trends in Ecology and Evolution_, In press: DOI:10.1016/j.tree.2024.12.002.](https://doi.org/10.1016/j.tree.2024.12.002)
 
 ### 2024
 
-* [**Hanson JO**, Schuster R, Strimas‐Mackey M, Morrell N, Edwards BPM, Arcese P, Bennett JR, and Possingham HP (2024) Systematic conservation prioritization with the prioritizr R package. _Conservation Biology_, In press: DOI:10.1111/cobi.14376.](https://doi.org/10.1111/cobi.14376)
 * [Bennett JR, Edwards BP, Bergman JN, Binley AD, Buxton RT, Hanna DE, **Hanson JO**, Hudgins EJ, Karimi S, Raymond CV, Robichaud CD, and Rytwinski T (2024) How ignoring detection probability hurts biodiversity conservation. _Frontiers in Ecology and the Environment_, In press: DOI:10.1002/fee.2782.](https://doi.org/10.1002/fee.2782)
 * [Fourchault L, Dahdouh-Guebas F, Dunn DC, Everett JD, **Hanson JO**, Buenafe KCV, Neubert S, Dabalà A, Yapa KKAS, Cannicci S, and Richardson AJ (2024) Generating affordable protection of high seas biodiversity through cross-sectoral spatial planning. _One Earth_, 7: 253--264.](https://doi.org/10.1016/j.oneear.2023.12.006)
 * [Hudgins EJ, **Hanson JO**, MacQuarrie CJK, Yemshanov D, Baker CM, Chadès I., Holden MH, McDonald-Madden E, and Bennett JR (2024) Spread management priorities to limit emerald ash borer (_Agrilus planipennis_) impacts on United States street trees. _Conservation Science and Practice_, 6: e13087.](https://doi.org/10.1111/csp2.13087)
