@@ -10,6 +10,7 @@ categories: publications
 * [**Hanson JO**, Schuster R, Strimas‐Mackey M, Morrell N, Edwards BPM, Arcese P, Bennett JR, and Possingham HP (2025) Systematic conservation prioritization with the prioritizr R package. _Conservation Biology_, 39: e14376.](https://doi.org/10.1111/cobi.14376)
 * [Binley AD, **Hanson JO**, Robinson OJ, Golet GH, and Bennett JR (2025) Quantifying the value of participatory science data for conservation decision-making. _Journal of Applied Ecology_, In press: DOI:10.1111/1365-2664.14863.](http://doi.org/10.1111/1365-2664.14863)
 * [Giakoumi S, Richardson AJ, Doxa A, Moro S, Andrello M, **Hanson JO**, Hermoso V, Mazor T, McGowan J, Kujala H, Law E, Álvarez Romero JG, Magris RA, Gissi E, Arafeh-Dalmau N, Metaxas A, Virtanen EA, Ban NC, Runya RM, Dunn DC, Fraschetti S, Galparsoro I, Smith RJ, Bastardie F, Stelzenmüller V, Possingham HP, and Katsanevakis S (2025) Advances in systematic conservation planning to meet global biodiversity goals. _Trends in Ecology and Evolution_, In press: DOI:10.1016/j.tree.2024.12.002.](https://doi.org/10.1016/j.tree.2024.12.002)
+* [Morelli, F, **Hanson JO**, and Yanina B (2025) Human pressures threaten diet-specialized mammal communities. _Proceedings of the Royal Society B: Biological Sciences_, 292: 20241735.](https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1735)
 
 ### 2024
 
