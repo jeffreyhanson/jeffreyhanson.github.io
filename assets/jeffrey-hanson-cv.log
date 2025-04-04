@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.16)  24 FEB 2025 08:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.3.3)  4 APR 2025 13:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **jeffrey-hanson-cv.tex
 (./jeffrey-hanson-cv.tex
-LaTeX2e <2024-11-01> patch level 1
-L3 programming layer <2024-11-02>
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
 (/home/jeff/.TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
 (/home/jeff/.TinyTeX/texmf-dist/tex/latex/base/size12.clo
@@ -116,7 +116,7 @@ Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
 \c@nlinenum=\count283
 \TeXr@lab=\toks25
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/latex/titlesec/titletoc.sty
-Package: titletoc 2023/10/27 v2.16 TOC entries
+Package: titletoc 2025/01/04 v2.17 TOC entries
 \ttl@leftsep=\dimen154
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
@@ -155,9 +155,9 @@ Package tocloft Info: The document has section divisions on input line 51.
 \cfttabindent=\skip85
 \cfttabnumwidth=\skip86
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/latex/lineno/lineno.sty
-Package: lineno 2023/05/20 line numbers on paragraphs v5.3
+Package: lineno 2025/01/29 line numbers on paragraphs v5.4
  (/home/jeff/.TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count286
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
@@ -183,8 +183,8 @@ Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 \bframerule=\dimen158
 \bframesep=\dimen159
 \bframebox=\box58
-\linenoamsmath@ams@eqpen=\count294
-LaTeX Info: Redefining \\ on input line 3180.
+\@LN@amsmath@ams@eqpen=\count294
+LaTeX Info: Redefining \\ on input line 3187.
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen160
@@ -353,7 +353,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip89
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2023/10/27 v2.16 Sectioning titles
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box59
 \beforetitleunit=\skip90
 \aftertitleunit=\skip91
@@ -417,7 +417,7 @@ Package: inputenc 2024/02/08 v1.3d Input encoding file
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 ) (/home/jeff/.TinyTeX/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2024/11/30 v24.14 The multilingual framework for pdfLaTeX, LuaLaTeX and XeLaTeX
+Package: babel 2025/02/14 v25.4 The multilingual framework for pdfLaTeX, LuaLaTeX and XeLaTeX
 \babel@savecnt=\count330
 \U@D=\dimen187
 \l@unhyphenated=\language7
@@ -455,7 +455,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 14.
  (/home/jeff/.TinyTeX/texmf-dist/tex/latex/enumitem/enumitem.sty
-Package: enumitem 2019/06/20 v3.9 Customized lists
+Package: enumitem 2025/02/06 v3.11 Customized lists
 \labelindent=\skip93
 \enit@outerparindent=\dimen196
 \enit@toks=\toks33
@@ -655,22 +655,22 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 
 {/home/jeff/.TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}] (./jeffrey-hanson-cv.aux)
  ***********
-LaTeX2e <2024-11-01> patch level 1
-L3 programming layer <2024-11-02>
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `jeffrey-hanson-cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 14052 strings out of 475247
- 221931 string characters out of 5767954
- 649669 words of memory out of 5000000
- 36690 multiletter control sequences out of 15000+600000
- 582449 words of font info for 60 fonts, out of 8000000 for 9000
+ 14057 strings out of 475129
+ 222041 string characters out of 5765005
+ 651581 words of memory out of 5000000
+ 36813 multiletter control sequences out of 15000+600000
+ 583217 words of font info for 60 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  74i,5n,82p,813b,636s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/jeff/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></home/jeff/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb></home/jeff/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmri12.pfb></home/jeff/.TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on jeffrey-hanson-cv.pdf (9 pages, 135002 bytes).
+Output written on jeffrey-hanson-cv.pdf (9 pages, 134981 bytes).
 PDF statistics:
  89 PDF objects out of 1000 (max. 8388607)
  64 compressed objects within 1 object stream
