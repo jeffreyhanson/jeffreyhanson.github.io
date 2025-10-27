@@ -5,6 +5,10 @@ date: 2015-11-22 00:00:01
 categories: publications
 ---
 
+### 2026
+
+* [**Hanson JO**, McCune JL, Alamenciak T, and Bennett JR (2026) Increasing the credibility of conservation plans through citizen science. _Biological Conservation_, 313: 111552.](https://doi.org/10.1016/j.biocon.2025.111552)
+
 ### 2025
 
 * [**Hanson JO**, Schuster R, Strimas‐Mackey M, Morrell N, Edwards BPM, Arcese P, Bennett JR, and Possingham HP (2025) Systematic conservation prioritization with the prioritizr R package. _Conservation Biology_, 39: e14376.](https://doi.org/10.1111/cobi.14376)
