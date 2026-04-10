@@ -9,6 +9,7 @@ categories: publications
 
 * [**Hanson JO**, McCune JL, Alamenciak T, and Bennett JR (2026) Increasing the credibility of conservation plans through citizen science. _Biological Conservation_, 313: 111552.](https://doi.org/10.1016/j.biocon.2025.111552)
 * [Geary WL, Tulloch AIT, Doherty TS, Nimmo DG, Ritchie EG, **Hanson JO**, Maxwell MA, and Wayne AF (2026) Optimising fire and predator management for conservation. _Journal of Applied Ecology_, 63: e70256.](https://doi.org/10.1111/1365-2664.70256)
+* [Castelli F, **Hanson JO**, Sabatini FM, Law E, Dutta T, and Lindner M (2026) Navigating trade-offs across ownership and ecological priorities in forest conservation planning. _Journal of Environmental Management_, 405: 129517.](https://doi.org/10.1016/j.jenvman.2026.129517)
 
 ### 2025
 
