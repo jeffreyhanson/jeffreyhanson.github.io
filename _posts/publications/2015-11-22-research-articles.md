@@ -11,7 +11,8 @@ categories: publications
 * [Castelli F, **Hanson JO**, Sabatini FM, Law E, Dutta T, and Lindner M (2026) Navigating trade-offs across ownership and ecological priorities in forest conservation planning. _Journal of Environmental Management_, 405: 129517.](https://doi.org/10.1016/j.jenvman.2026.129517)
 * [Flower J, Burns ES, Dunn DC, Estep A, Everett JD, **Hanson JO**, Lester SE, and Richardson AJ (2026) oceandatr: An R package to acquire and process geospatial ocean data. _Ecology and Evolution_, 16: e74211.](https://doi.org/10.1002/ece3.74211)
 * [Geary WL, Tulloch AIT, Doherty TS, Nimmo DG, Ritchie EG, **Hanson JO**, Maxwell MA, and Wayne AF (2026) Optimising fire and predator management for conservation. _Journal of Applied Ecology_, 63: e70256.](https://doi.org/10.1111/1365-2664.70256)
-* [Khuu DT, Oldekop JA, **Hanson JO**, and Pritchard R (2026) Socially informed conservation priorities in Vietnam reveal major overlaps between biodiversity protection and human needs. _Communications Earth and Environment_, In press: 10.1038/s43247-026-03686-7.](https://doi.org/10.1038/s43247-026-03686-7)
+* [Jiang Z-W, Xiao H-B, **Hanson JO**, Zeng Y, Wilcove DS, Schuerch M, Kirwan ML, Yan Q-F, Chen Y, and Ma L (2026) Safeguarding global terrestrial vertebrate species from future sea-level rise. _Science_, In press: 10.1126/science.aed5772.](https://doi.org/10.1126/science.aed5772)
+* [Khuu DT, Oldekop JA, **Hanson JO**, and Pritchard R (2026) Socially informed conservation priorities in Vietnam reveal major overlaps between biodiversity protection and human needs. _Communications Earth and Environment_, 7: 740.](https://doi.org/10.1038/s43247-026-03686-7)
 
 ### 2025
 
@@ -24,7 +25,7 @@ categories: publications
 * [Jung M, Adams VM, Alagador D, Álvarez-Romero JG, Araujo MB, Arponen A, Beger M, Beher J, Carvalho SB, Giakoumi S, **Hanson JO**, Hermoso V, Jantke K, Kujala H, McGowan J, Metaxas A, O'Connor L, Salgado-Rojas J, Schuster R, Smith B, and Visconti P (2025) An interoperable and standardized protocol for reporting systematic conservation planning projects. _Conservation Science and Practice_, 7: e70097.](https://doi.org/10.1111/csp2.70097)
 * [Karimi S, Schuster R, **Hanson JO**, Riva F, Liczner A, and Bennett JR (2025) Priority areas to conserve biodiversity in Canada. _FACETS_. 10: 1--10.](https://doi.org/10.1139/facets-2024-0295)
 * [Morelli, F, **Hanson JO**, and Benedetti Y (2025) Human pressures threaten diet-specialized mammal communities. _Proceedings of the Royal Society B: Biological Sciences_, 292: 20241735.](https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1735)
-* [Neubert S, McGowan J, Metcalfe K, **Hanson JO**, Buenafe KCV, Dabalà A, Dunn DC, Everett JD, Possingham HP, Stelzenmüller V, Estep A, Ervin J, and Richardson AJ (2025) Multiple-use spatial planning for sustainable development and conservation. _Trends in Ecology and Evolution_, In press: DOI:10.1016/j.tree.2025.09.007.](https://doi.org/10.1016/j.tree.2025.09.007)
+* [Neubert S, McGowan J, Metcalfe K, **Hanson JO**, Buenafe KCV, Dabalà A, Dunn DC, Everett JD, Possingham HP, Stelzenmüller V, Estep A, Ervin J, and Richardson AJ (2025) Multiple-use spatial planning for sustainable development and conservation. _Trends in Ecology and Evolution_, 40: 1126--1142.](https://doi.org/10.1016/j.tree.2025.09.007)
 
 ### 2024
 
